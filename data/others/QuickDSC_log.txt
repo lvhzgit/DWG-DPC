@@ -1,0 +1,1146 @@
+
+2022-12-09 03:01:24: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=2, n_clusters=15, nmi=0.9885, ari=0.9856, ami=0.9876, time_cost=0.0188s
+
+2022-12-09 03:01:26: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=3, n_clusters=15, nmi=0.9893, ari=0.9857, ami=0.9885, time_cost=0.0093s
+
+2022-12-09 03:01:28: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=4, n_clusters=15, nmi=0.9942, ari=0.9928, ami=0.9938, time_cost=0.0126s
+
+2022-12-09 03:01:30: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=5, n_clusters=15, nmi=0.9864, ari=0.9821, ami=0.9855, time_cost=0.0080s
+
+2022-12-09 03:01:32: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=6, n_clusters=15, nmi=0.9690, ari=0.9081, ami=0.9668, time_cost=0.0085s
+
+2022-12-09 03:01:34: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=7, n_clusters=15, nmi=0.9942, ari=0.9928, ami=0.9938, time_cost=0.0136s
+
+2022-12-09 03:02:48: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=2, n_clusters=15, nmi=0.9885, ari=0.9856, ami=0.9876, time_cost=0.0183s
+
+2022-12-09 03:02:48: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=3, n_clusters=15, nmi=0.9893, ari=0.9857, ami=0.9885, time_cost=0.0087s
+
+2022-12-09 03:02:49: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=4, n_clusters=15, nmi=0.9942, ari=0.9928, ami=0.9938, time_cost=0.0084s
+
+2022-12-09 03:02:50: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=5, n_clusters=15, nmi=0.9864, ari=0.9821, ami=0.9855, time_cost=0.0074s
+
+2022-12-09 03:02:50: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=6, n_clusters=15, nmi=0.9690, ari=0.9081, ami=0.9668, time_cost=0.0084s
+
+2022-12-09 03:02:51: R15 datasets process: alg_name=QuickDSC, shape=(600, 2), k_neighbors=7, n_clusters=15, nmi=0.9942, ari=0.9928, ami=0.9938, time_cost=0.0086s
+
+2022-12-11 17:25:43: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=2, n_clusters=15, nmi=0.9401, ari=0.9287, ami=0.9397, time_cost=0.1218s
+
+2022-12-11 17:25:44: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=3, n_clusters=15, nmi=0.9321, ari=0.9108, ami=0.9316, time_cost=0.1070s
+
+2022-12-11 17:25:44: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=4, n_clusters=15, nmi=0.9363, ari=0.9205, ami=0.9358, time_cost=0.0867s
+
+2022-12-11 17:25:45: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=5, n_clusters=15, nmi=0.9373, ari=0.9201, ami=0.9369, time_cost=0.0872s
+
+2022-12-11 17:25:45: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=6, n_clusters=15, nmi=0.9423, ari=0.9316, ami=0.9419, time_cost=0.0863s
+
+2022-12-11 17:25:46: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=7, n_clusters=15, nmi=0.9401, ari=0.9273, ami=0.9397, time_cost=0.0889s
+
+2022-12-11 17:25:47: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=8, n_clusters=15, nmi=0.9434, ari=0.9330, ami=0.9430, time_cost=0.1035s
+
+2022-12-11 17:25:47: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=9, n_clusters=15, nmi=0.9450, ari=0.9370, ami=0.9445, time_cost=0.1057s
+
+2022-12-11 17:25:48: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=10, n_clusters=15, nmi=0.9438, ari=0.9347, ami=0.9433, time_cost=0.1066s
+
+2022-12-11 17:25:49: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=11, n_clusters=15, nmi=0.9438, ari=0.9346, ami=0.9433, time_cost=0.1083s
+
+2022-12-11 17:25:49: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=12, n_clusters=15, nmi=0.9451, ari=0.9367, ami=0.9447, time_cost=0.1116s
+
+2022-12-11 17:25:50: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=13, n_clusters=15, nmi=0.9381, ari=0.9248, ami=0.9377, time_cost=0.1135s
+
+2022-12-11 17:25:51: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=14, n_clusters=15, nmi=0.9412, ari=0.9289, ami=0.9407, time_cost=0.1295s
+
+2022-12-11 17:25:51: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=15, n_clusters=15, nmi=0.9431, ari=0.9332, ami=0.9426, time_cost=0.1291s
+
+2022-12-11 17:25:52: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=16, n_clusters=15, nmi=0.9428, ari=0.9309, ami=0.9424, time_cost=0.0976s
+
+2022-12-11 17:25:53: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=17, n_clusters=15, nmi=0.9417, ari=0.9298, ami=0.9413, time_cost=0.1073s
+
+2022-12-11 17:25:53: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=18, n_clusters=15, nmi=0.9417, ari=0.9307, ami=0.9413, time_cost=0.1494s
+
+2022-12-11 17:25:54: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=19, n_clusters=15, nmi=0.9403, ari=0.9277, ami=0.9398, time_cost=0.1577s
+
+2022-12-11 17:25:55: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=20, n_clusters=15, nmi=0.9409, ari=0.9293, ami=0.9404, time_cost=0.1011s
+
+2022-12-11 17:25:55: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=21, n_clusters=15, nmi=0.9421, ari=0.9313, ami=0.9416, time_cost=0.1639s
+
+2022-12-11 17:25:56: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=22, n_clusters=15, nmi=0.9414, ari=0.9308, ami=0.9410, time_cost=0.0912s
+
+2022-12-11 17:25:56: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=23, n_clusters=15, nmi=0.9437, ari=0.9346, ami=0.9433, time_cost=0.0882s
+
+2022-12-11 17:25:57: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=24, n_clusters=15, nmi=0.9411, ari=0.9300, ami=0.9407, time_cost=0.2007s
+
+2022-12-11 17:25:58: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=25, n_clusters=15, nmi=0.9437, ari=0.9336, ami=0.9433, time_cost=0.1154s
+
+2022-12-11 17:25:59: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=26, n_clusters=15, nmi=0.9444, ari=0.9345, ami=0.9440, time_cost=0.1228s
+
+2022-12-11 17:25:59: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=27, n_clusters=15, nmi=0.9434, ari=0.9329, ami=0.9430, time_cost=0.2046s
+
+2022-12-11 17:26:00: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=28, n_clusters=15, nmi=0.9427, ari=0.9311, ami=0.9422, time_cost=0.2199s
+
+2022-12-11 17:26:01: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=29, n_clusters=15, nmi=0.9435, ari=0.9328, ami=0.9431, time_cost=0.2273s
+
+2022-12-11 17:26:01: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=30, n_clusters=15, nmi=0.9413, ari=0.9306, ami=0.9409, time_cost=0.1575s
+
+2022-12-11 17:26:02: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=31, n_clusters=15, nmi=0.9427, ari=0.9326, ami=0.9422, time_cost=0.2335s
+
+2022-12-11 17:26:03: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=32, n_clusters=15, nmi=0.9430, ari=0.9335, ami=0.9426, time_cost=0.2219s
+
+2022-12-11 17:26:04: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=33, n_clusters=15, nmi=0.9434, ari=0.9340, ami=0.9429, time_cost=0.1712s
+
+2022-12-11 17:26:04: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=34, n_clusters=15, nmi=0.9433, ari=0.9334, ami=0.9428, time_cost=0.2711s
+
+2022-12-11 17:26:05: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=35, n_clusters=15, nmi=0.9436, ari=0.9340, ami=0.9432, time_cost=0.2670s
+
+2022-12-11 17:26:06: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=36, n_clusters=15, nmi=0.9446, ari=0.9355, ami=0.9442, time_cost=0.2863s
+
+2022-12-11 17:26:07: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=37, n_clusters=15, nmi=0.9435, ari=0.9344, ami=0.9431, time_cost=0.1812s
+
+2022-12-11 17:26:07: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=38, n_clusters=15, nmi=0.9438, ari=0.9338, ami=0.9434, time_cost=0.2106s
+
+2022-12-11 17:26:08: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=39, n_clusters=15, nmi=0.9412, ari=0.9295, ami=0.9408, time_cost=0.1533s
+
+2022-12-11 17:26:09: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=40, n_clusters=15, nmi=0.9418, ari=0.9303, ami=0.9413, time_cost=0.1507s
+
+2022-12-11 17:26:10: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=41, n_clusters=15, nmi=0.9407, ari=0.9290, ami=0.9402, time_cost=0.3147s
+
+2022-12-11 17:26:10: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=42, n_clusters=15, nmi=0.9417, ari=0.9319, ami=0.9413, time_cost=0.1999s
+
+2022-12-11 17:26:11: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=43, n_clusters=15, nmi=0.9409, ari=0.9301, ami=0.9405, time_cost=0.1642s
+
+2022-12-11 17:26:12: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=44, n_clusters=15, nmi=0.9410, ari=0.9284, ami=0.9406, time_cost=0.1821s
+
+2022-12-11 17:26:13: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=45, n_clusters=15, nmi=0.9384, ari=0.9251, ami=0.9379, time_cost=0.3528s
+
+2022-12-11 17:26:14: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=46, n_clusters=15, nmi=0.9398, ari=0.9267, ami=0.9393, time_cost=0.3179s
+
+2022-12-11 17:26:14: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=47, n_clusters=15, nmi=0.9418, ari=0.9309, ami=0.9414, time_cost=0.3603s
+
+2022-12-11 17:26:15: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=48, n_clusters=15, nmi=0.9417, ari=0.9308, ami=0.9413, time_cost=0.3840s
+
+2022-12-11 17:28:06: S2 datasets process: alg_name=QuickDSC, shape=(5000, 2), k_neighbors=48, n_clusters=15, nmi=0.9417, ari=0.9308, ami=0.9413, time_cost=0.1851s
+
+2022-12-11 17:30:49: Flame datasets process: alg_name=QuickDSC, shape=(240, 2), k_neighbors=3, n_clusters=2, nmi=0.5955, ari=0.6120, ami=0.5943, time_cost=0.0053s
+
+2022-12-11 17:30:49: Flame datasets process: alg_name=QuickDSC, shape=(240, 2), k_neighbors=4, n_clusters=2, nmi=0.0055, ari=-0.0036, ami=-0.0025, time_cost=0.0029s
+
+2022-12-11 17:42:40: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=2, n_clusters=3, nmi=0.5893, ari=0.4422, ami=0.5889, time_cost=0.0384s
+
+2022-12-11 17:42:40: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=3, n_clusters=3, nmi=0.7962, ari=0.7382, ami=0.7961, time_cost=0.0290s
+
+2022-12-11 17:42:40: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=4, n_clusters=3, nmi=0.8080, ari=0.7592, ami=0.8079, time_cost=0.0247s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=5, n_clusters=3, nmi=0.7989, ari=0.7662, ami=0.7987, time_cost=0.0165s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=6, n_clusters=3, nmi=0.7712, ari=0.6917, ami=0.7709, time_cost=0.0292s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=7, n_clusters=3, nmi=0.6647, ari=0.4710, ami=0.6643, time_cost=0.0469s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=8, n_clusters=3, nmi=0.9838, ari=0.9901, ami=0.9838, time_cost=0.0351s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=9, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0325s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=10, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0329s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=11, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0216s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=12, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0221s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=13, n_clusters=3, nmi=0.9930, ari=0.9967, ami=0.9930, time_cost=0.0387s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=14, n_clusters=3, nmi=0.9930, ari=0.9967, ami=0.9930, time_cost=0.0252s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=15, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0249s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=16, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0466s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=17, n_clusters=3, nmi=0.9930, ari=0.9967, ami=0.9930, time_cost=0.0458s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=18, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0581s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=19, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0607s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=20, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0547s
+
+2022-12-11 17:42:41: banana-ball datasets process: alg_name=QuickDSC, shape=(2000, 2), k_neighbors=21, n_clusters=3, nmi=0.9936, ari=0.9967, ami=0.9936, time_cost=0.0655s
+
+2022-12-11 17:43:08: seeds datasets process: alg_name=QuickDSC, shape=(210, 7), k_neighbors=2, n_clusters=3, nmi=0.6440, ari=0.5732, ami=0.6407, time_cost=0.0076s
+
+2022-12-11 17:43:08: seeds datasets process: alg_name=QuickDSC, shape=(210, 7), k_neighbors=3, n_clusters=3, nmi=0.7367, ari=0.7365, ami=0.7344, time_cost=0.0031s
+
+2022-12-11 17:43:08: seeds datasets process: alg_name=QuickDSC, shape=(210, 7), k_neighbors=4, n_clusters=3, nmi=0.6306, ari=0.6891, ami=0.6274, time_cost=0.0037s
+
+2022-12-11 17:43:08: seeds datasets process: alg_name=QuickDSC, shape=(210, 7), k_neighbors=5, n_clusters=3, nmi=0.4728, ari=0.4356, ami=0.4668, time_cost=0.0038s
+
+2022-12-11 17:43:08: seeds datasets process: alg_name=QuickDSC, shape=(210, 7), k_neighbors=6, n_clusters=3, nmi=0.5115, ari=0.4554, ami=0.5056, time_cost=0.0039s
+
+2022-12-11 17:43:08: seeds datasets process: alg_name=QuickDSC, shape=(210, 7), k_neighbors=7, n_clusters=3, nmi=0.5115, ari=0.4554, ami=0.5056, time_cost=0.0038s
+
+2022-12-11 17:43:08: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=5, n_clusters=2, nmi=0.1033, ari=0.0955, ami=0.1027, time_cost=0.0269s
+
+2022-12-11 17:43:08: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=6, n_clusters=2, nmi=0.2632, ari=0.2229, ami=0.2628, time_cost=0.0256s
+
+2022-12-11 17:43:08: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=7, n_clusters=2, nmi=0.0023, ari=0.0030, ami=0.0018, time_cost=0.0381s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=8, n_clusters=2, nmi=0.0278, ari=0.0319, ami=0.0273, time_cost=0.0278s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=9, n_clusters=2, nmi=0.2636, ari=0.2036, ami=0.2631, time_cost=0.0287s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=10, n_clusters=2, nmi=0.2962, ari=0.1590, ami=0.2958, time_cost=0.0381s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=11, n_clusters=2, nmi=0.0732, ari=0.1059, ami=0.0727, time_cost=0.0311s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=12, n_clusters=2, nmi=0.0271, ari=0.0255, ami=0.0266, time_cost=0.0322s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=13, n_clusters=2, nmi=0.0001, ari=-0.0004, ami=-0.0004, time_cost=0.0351s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=14, n_clusters=2, nmi=0.0090, ari=0.0109, ami=0.0085, time_cost=0.0368s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=15, n_clusters=2, nmi=0.0170, ari=0.0286, ami=0.0164, time_cost=0.0447s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=16, n_clusters=2, nmi=0.0562, ari=0.0787, ami=0.0556, time_cost=0.0270s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=17, n_clusters=2, nmi=0.1105, ari=0.1327, ami=0.1100, time_cost=0.0368s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=18, n_clusters=2, nmi=0.1578, ari=0.1995, ami=0.1574, time_cost=0.0475s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=19, n_clusters=2, nmi=0.2863, ari=0.3686, ami=0.2859, time_cost=0.0495s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=20, n_clusters=2, nmi=0.2863, ari=0.3686, ami=0.2859, time_cost=0.0262s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=21, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0384s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=22, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0255s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=23, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0473s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=24, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0525s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=25, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0443s
+
+2022-12-11 17:43:09: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=26, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0279s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=27, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0655s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=28, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0329s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=29, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0580s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=30, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0611s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=31, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0561s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=32, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0492s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=33, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0346s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=34, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0351s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=35, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0708s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=36, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0469s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=37, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0454s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=38, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0716s
+
+2022-12-11 17:43:10: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=39, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0722s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=5, n_clusters=2, nmi=0.1033, ari=0.0955, ami=0.1027, time_cost=0.0248s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=6, n_clusters=2, nmi=0.2632, ari=0.2229, ami=0.2628, time_cost=0.0231s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=7, n_clusters=2, nmi=0.0023, ari=0.0030, ami=0.0018, time_cost=0.0303s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=8, n_clusters=2, nmi=0.0278, ari=0.0319, ami=0.0273, time_cost=0.0266s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=9, n_clusters=2, nmi=0.2636, ari=0.2036, ami=0.2631, time_cost=0.0310s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=10, n_clusters=2, nmi=0.2962, ari=0.1590, ami=0.2958, time_cost=0.0299s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=11, n_clusters=2, nmi=0.0732, ari=0.1059, ami=0.0727, time_cost=0.0293s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=12, n_clusters=2, nmi=0.0271, ari=0.0255, ami=0.0266, time_cost=0.0351s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=13, n_clusters=2, nmi=0.0001, ari=-0.0004, ami=-0.0004, time_cost=0.0308s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=14, n_clusters=2, nmi=0.0090, ari=0.0109, ami=0.0085, time_cost=0.0213s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=15, n_clusters=2, nmi=0.0170, ari=0.0286, ami=0.0164, time_cost=0.0274s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=16, n_clusters=2, nmi=0.0562, ari=0.0787, ami=0.0556, time_cost=0.0364s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=17, n_clusters=2, nmi=0.1105, ari=0.1327, ami=0.1100, time_cost=0.0471s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=18, n_clusters=2, nmi=0.1578, ari=0.1995, ami=0.1574, time_cost=0.0390s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=19, n_clusters=2, nmi=0.2863, ari=0.3686, ami=0.2859, time_cost=0.0483s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=20, n_clusters=2, nmi=0.2863, ari=0.3686, ami=0.2859, time_cost=0.0311s
+
+2022-12-11 17:43:39: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=21, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0237s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=22, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0249s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=23, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0537s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=24, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0484s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=25, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0548s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=26, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0503s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=27, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0617s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=28, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0532s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=29, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0589s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=30, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0645s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=31, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0592s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=32, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0637s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=33, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0596s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=34, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0550s
+
+2022-12-11 17:43:40: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=35, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0723s
+
+2022-12-11 17:43:41: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=36, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0670s
+
+2022-12-11 17:43:41: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=37, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0610s
+
+2022-12-11 17:43:41: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=38, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0789s
+
+2022-12-11 17:43:41: banknote datasets process: alg_name=QuickDSC, shape=(1372, 4), k_neighbors=39, n_clusters=2, nmi=0.0760, ari=-0.0099, ami=0.0753, time_cost=0.0714s
+
+2022-12-11 17:43:58: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=3, n_clusters=7, nmi=0.6110, ari=0.4768, ami=0.6094, time_cost=0.0964s
+
+2022-12-11 17:43:59: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=4, n_clusters=7, nmi=0.6097, ari=0.4932, ami=0.6080, time_cost=0.1684s
+
+2022-12-11 17:43:59: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=5, n_clusters=7, nmi=0.6296, ari=0.4971, ami=0.6281, time_cost=0.1511s
+
+2022-12-11 17:43:59: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=6, n_clusters=7, nmi=0.6132, ari=0.5239, ami=0.6116, time_cost=0.1547s
+
+2022-12-11 17:43:59: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=7, n_clusters=7, nmi=0.6129, ari=0.4848, ami=0.6113, time_cost=0.1296s
+
+2022-12-11 17:43:59: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=8, n_clusters=7, nmi=0.6878, ari=0.5517, ami=0.6865, time_cost=0.1240s
+
+2022-12-11 17:43:59: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=9, n_clusters=7, nmi=0.6900, ari=0.5411, ami=0.6887, time_cost=0.0840s
+
+2022-12-11 17:43:59: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=10, n_clusters=7, nmi=0.6615, ari=0.4975, ami=0.6601, time_cost=0.0915s
+
+2022-12-11 17:44:00: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=11, n_clusters=7, nmi=0.6736, ari=0.5197, ami=0.6722, time_cost=0.1711s
+
+2022-12-11 17:44:00: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=12, n_clusters=7, nmi=0.6736, ari=0.5191, ami=0.6723, time_cost=0.1326s
+
+2022-12-11 17:44:00: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=13, n_clusters=7, nmi=0.5752, ari=0.3938, ami=0.5733, time_cost=0.1924s
+
+2022-12-11 17:44:00: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=14, n_clusters=7, nmi=0.5712, ari=0.4077, ami=0.5694, time_cost=0.1775s
+
+2022-12-11 17:44:00: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=15, n_clusters=7, nmi=0.5763, ari=0.3982, ami=0.5745, time_cost=0.1006s
+
+2022-12-11 17:44:00: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=16, n_clusters=7, nmi=0.5725, ari=0.3948, ami=0.5706, time_cost=0.1000s
+
+2022-12-11 17:44:01: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=17, n_clusters=7, nmi=0.5615, ari=0.3758, ami=0.5596, time_cost=0.1988s
+
+2022-12-11 17:44:01: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=18, n_clusters=7, nmi=0.5827, ari=0.4151, ami=0.5809, time_cost=0.1899s
+
+2022-12-11 17:44:01: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=19, n_clusters=7, nmi=0.5829, ari=0.4108, ami=0.5811, time_cost=0.1798s
+
+2022-12-11 17:44:01: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=20, n_clusters=7, nmi=0.6064, ari=0.4259, ami=0.6048, time_cost=0.1236s
+
+2022-12-11 17:44:01: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=21, n_clusters=7, nmi=0.5591, ari=0.3917, ami=0.5573, time_cost=0.1621s
+
+2022-12-11 17:44:01: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=22, n_clusters=7, nmi=0.5657, ari=0.3927, ami=0.5638, time_cost=0.1152s
+
+2022-12-11 17:44:02: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=23, n_clusters=7, nmi=0.5689, ari=0.3998, ami=0.5670, time_cost=0.1223s
+
+2022-12-11 17:44:02: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=24, n_clusters=7, nmi=0.5589, ari=0.3956, ami=0.5570, time_cost=0.1387s
+
+2022-12-11 17:44:02: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=25, n_clusters=7, nmi=0.5560, ari=0.3961, ami=0.5542, time_cost=0.1507s
+
+2022-12-11 17:44:02: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=26, n_clusters=7, nmi=0.5517, ari=0.3930, ami=0.5498, time_cost=0.2741s
+
+2022-12-11 17:44:02: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=27, n_clusters=7, nmi=0.5648, ari=0.3776, ami=0.5629, time_cost=0.2887s
+
+2022-12-11 17:44:03: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=28, n_clusters=7, nmi=0.5512, ari=0.3758, ami=0.5492, time_cost=0.2142s
+
+2022-12-11 17:44:03: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=29, n_clusters=7, nmi=0.6746, ari=0.5558, ami=0.6732, time_cost=0.2661s
+
+2022-12-11 17:44:03: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=30, n_clusters=7, nmi=0.5738, ari=0.4028, ami=0.5720, time_cost=0.1390s
+
+2022-12-11 17:44:03: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=31, n_clusters=7, nmi=0.5969, ari=0.4181, ami=0.5952, time_cost=0.1601s
+
+2022-12-11 17:44:04: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=32, n_clusters=7, nmi=0.6837, ari=0.5546, ami=0.6824, time_cost=0.2631s
+
+2022-12-11 17:44:04: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=33, n_clusters=7, nmi=0.6694, ari=0.5500, ami=0.6680, time_cost=0.2981s
+
+2022-12-11 17:44:04: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=34, n_clusters=7, nmi=0.6547, ari=0.5360, ami=0.6532, time_cost=0.2840s
+
+2022-12-11 17:44:04: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=35, n_clusters=7, nmi=0.6837, ari=0.5546, ami=0.6824, time_cost=0.1465s
+
+2022-12-11 17:44:05: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=36, n_clusters=7, nmi=0.6646, ari=0.5485, ami=0.6632, time_cost=0.1948s
+
+2022-12-11 17:44:05: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=37, n_clusters=7, nmi=0.6536, ari=0.5358, ami=0.6521, time_cost=0.1797s
+
+2022-12-11 17:44:05: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=38, n_clusters=7, nmi=0.6912, ari=0.5622, ami=0.6899, time_cost=0.3316s
+
+2022-12-11 17:44:06: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=39, n_clusters=7, nmi=0.6862, ari=0.5591, ami=0.6849, time_cost=0.3420s
+
+2022-12-11 17:44:06: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=40, n_clusters=7, nmi=0.6603, ari=0.5432, ami=0.6589, time_cost=0.2326s
+
+2022-12-11 17:44:06: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=41, n_clusters=7, nmi=0.6885, ari=0.5607, ami=0.6872, time_cost=0.1951s
+
+2022-12-11 17:44:06: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=42, n_clusters=7, nmi=0.6784, ari=0.5510, ami=0.6771, time_cost=0.1873s
+
+2022-12-11 17:44:06: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=43, n_clusters=7, nmi=0.6784, ari=0.5510, ami=0.6771, time_cost=0.1675s
+
+2022-12-11 17:44:07: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=44, n_clusters=7, nmi=0.6587, ari=0.5476, ami=0.6573, time_cost=0.1802s
+
+2022-12-11 17:44:07: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=45, n_clusters=7, nmi=0.6525, ari=0.5424, ami=0.6511, time_cost=0.1923s
+
+2022-12-11 17:44:07: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=46, n_clusters=7, nmi=0.6658, ari=0.5655, ami=0.6645, time_cost=0.3855s
+
+2022-12-11 17:44:08: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=47, n_clusters=7, nmi=0.6697, ari=0.5691, ami=0.6684, time_cost=0.3742s
+
+2022-12-11 17:44:08: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=48, n_clusters=7, nmi=0.6781, ari=0.5726, ami=0.6768, time_cost=0.3797s
+
+2022-12-11 17:44:08: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=49, n_clusters=7, nmi=0.6775, ari=0.5711, ami=0.6762, time_cost=0.4016s
+
+2022-12-11 17:44:09: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=50, n_clusters=7, nmi=0.6600, ari=0.5438, ami=0.6586, time_cost=0.3034s
+
+2022-12-11 17:44:09: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=51, n_clusters=7, nmi=0.6579, ari=0.5430, ami=0.6565, time_cost=0.3214s
+
+2022-12-11 17:44:09: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=52, n_clusters=7, nmi=0.6579, ari=0.5428, ami=0.6564, time_cost=0.3119s
+
+2022-12-11 17:44:10: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=53, n_clusters=7, nmi=0.6605, ari=0.5465, ami=0.6591, time_cost=0.3023s
+
+2022-12-11 17:44:10: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=54, n_clusters=7, nmi=0.6807, ari=0.5686, ami=0.6795, time_cost=0.4378s
+
+2022-12-11 17:44:11: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=55, n_clusters=7, nmi=0.6764, ari=0.5538, ami=0.6751, time_cost=0.3650s
+
+2022-12-11 17:44:11: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=56, n_clusters=7, nmi=0.6768, ari=0.5540, ami=0.6754, time_cost=0.2315s
+
+2022-12-11 17:44:11: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=57, n_clusters=7, nmi=0.6765, ari=0.5545, ami=0.6752, time_cost=0.2651s
+
+2022-12-11 17:44:11: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=58, n_clusters=7, nmi=0.6855, ari=0.5576, ami=0.6842, time_cost=0.2311s
+
+2022-12-11 17:44:12: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=59, n_clusters=7, nmi=0.6733, ari=0.5499, ami=0.6720, time_cost=0.2748s
+
+2022-12-11 17:44:12: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=60, n_clusters=7, nmi=0.6709, ari=0.5416, ami=0.6696, time_cost=0.3767s
+
+2022-12-11 17:44:12: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=61, n_clusters=7, nmi=0.6704, ari=0.5479, ami=0.6691, time_cost=0.2249s
+
+2022-12-11 17:44:13: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=62, n_clusters=7, nmi=0.6718, ari=0.5491, ami=0.6705, time_cost=0.3646s
+
+2022-12-11 17:44:13: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=63, n_clusters=7, nmi=0.6714, ari=0.5491, ami=0.6700, time_cost=0.2458s
+
+2022-12-11 17:44:13: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=64, n_clusters=7, nmi=0.5896, ari=0.4287, ami=0.5879, time_cost=0.2461s
+
+2022-12-11 17:44:13: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=65, n_clusters=7, nmi=0.6895, ari=0.5550, ami=0.6882, time_cost=0.2472s
+
+2022-12-11 17:44:14: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=66, n_clusters=7, nmi=0.6917, ari=0.5530, ami=0.6904, time_cost=0.2567s
+
+2022-12-11 17:44:14: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=67, n_clusters=7, nmi=0.6915, ari=0.5528, ami=0.6903, time_cost=0.2719s
+
+2022-12-11 17:44:14: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=68, n_clusters=7, nmi=0.6901, ari=0.5515, ami=0.6888, time_cost=0.3543s
+
+2022-12-11 17:44:15: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=69, n_clusters=7, nmi=0.6901, ari=0.5515, ami=0.6888, time_cost=0.2463s
+
+2022-12-11 17:44:15: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=70, n_clusters=7, nmi=0.6508, ari=0.4897, ami=0.6494, time_cost=0.2700s
+
+2022-12-11 17:44:15: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=71, n_clusters=7, nmi=0.6508, ari=0.4897, ami=0.6494, time_cost=0.2665s
+
+2022-12-11 17:44:15: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=72, n_clusters=7, nmi=0.6562, ari=0.5044, ami=0.6548, time_cost=0.2602s
+
+2022-12-11 17:44:16: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=73, n_clusters=7, nmi=0.6508, ari=0.4897, ami=0.6494, time_cost=0.2684s
+
+2022-12-11 17:44:16: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=74, n_clusters=7, nmi=0.6508, ari=0.4897, ami=0.6494, time_cost=0.4652s
+
+2022-12-11 17:44:17: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=75, n_clusters=7, nmi=0.6508, ari=0.4897, ami=0.6494, time_cost=0.5685s
+
+2022-12-11 17:44:17: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=76, n_clusters=7, nmi=0.6460, ari=0.4830, ami=0.6445, time_cost=0.4248s
+
+2022-12-11 17:44:18: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=77, n_clusters=7, nmi=0.6500, ari=0.4886, ami=0.6485, time_cost=0.3632s
+
+2022-12-11 17:44:18: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=78, n_clusters=7, nmi=0.6553, ari=0.5033, ami=0.6539, time_cost=0.4527s
+
+2022-12-11 17:44:18: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=79, n_clusters=7, nmi=0.6553, ari=0.5033, ami=0.6539, time_cost=0.2933s
+
+2022-12-11 17:44:19: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=80, n_clusters=7, nmi=0.6504, ari=0.4958, ami=0.6489, time_cost=0.3427s
+
+2022-12-11 17:44:19: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=81, n_clusters=7, nmi=0.6553, ari=0.5033, ami=0.6539, time_cost=0.6184s
+
+2022-12-11 17:44:20: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=82, n_clusters=7, nmi=0.6544, ari=0.5178, ami=0.6529, time_cost=0.4109s
+
+2022-12-11 17:44:20: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=83, n_clusters=7, nmi=0.6511, ari=0.5151, ami=0.6497, time_cost=0.5856s
+
+2022-12-11 17:44:21: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=84, n_clusters=7, nmi=0.6498, ari=0.5141, ami=0.6484, time_cost=0.4537s
+
+2022-12-11 17:44:21: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=85, n_clusters=7, nmi=0.6511, ari=0.5151, ami=0.6497, time_cost=0.3615s
+
+2022-12-11 17:44:22: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=86, n_clusters=7, nmi=0.6511, ari=0.5151, ami=0.6497, time_cost=0.5562s
+
+2022-12-11 17:44:22: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=87, n_clusters=7, nmi=0.6540, ari=0.5001, ami=0.6526, time_cost=0.4214s
+
+2022-12-11 17:44:23: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=88, n_clusters=7, nmi=0.6528, ari=0.4983, ami=0.6513, time_cost=0.3448s
+
+2022-12-11 17:44:23: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=89, n_clusters=7, nmi=0.6540, ari=0.5001, ami=0.6526, time_cost=0.3664s
+
+2022-12-11 17:44:23: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=90, n_clusters=7, nmi=0.6602, ari=0.5104, ami=0.6588, time_cost=0.4446s
+
+2022-12-11 17:44:24: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=91, n_clusters=7, nmi=0.5911, ari=0.3891, ami=0.5893, time_cost=0.4312s
+
+2022-12-11 17:44:24: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=92, n_clusters=7, nmi=0.6528, ari=0.4983, ami=0.6513, time_cost=0.3807s
+
+2022-12-11 17:44:25: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=93, n_clusters=7, nmi=0.5911, ari=0.3891, ami=0.5893, time_cost=0.5842s
+
+2022-12-11 17:44:25: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=94, n_clusters=7, nmi=0.5997, ari=0.4039, ami=0.5981, time_cost=0.3631s
+
+2022-12-11 17:44:26: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=95, n_clusters=7, nmi=0.5997, ari=0.4039, ami=0.5981, time_cost=0.5796s
+
+2022-12-11 17:44:26: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=96, n_clusters=7, nmi=0.5997, ari=0.4039, ami=0.5981, time_cost=0.4247s
+
+2022-12-11 17:44:27: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=97, n_clusters=7, nmi=0.5978, ari=0.4030, ami=0.5962, time_cost=0.3972s
+
+2022-12-11 17:44:27: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=98, n_clusters=7, nmi=0.5965, ari=0.4009, ami=0.5948, time_cost=0.3681s
+
+2022-12-11 17:44:27: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=99, n_clusters=7, nmi=0.5965, ari=0.4009, ami=0.5948, time_cost=0.3728s
+
+2022-12-11 17:44:28: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=100, n_clusters=7, nmi=0.5965, ari=0.4009, ami=0.5948, time_cost=0.3846s
+
+2022-12-11 17:44:28: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=101, n_clusters=7, nmi=0.5965, ari=0.4009, ami=0.5948, time_cost=0.3820s
+
+2022-12-11 17:44:29: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=102, n_clusters=7, nmi=0.5965, ari=0.4009, ami=0.5948, time_cost=0.3806s
+
+2022-12-11 17:44:29: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=103, n_clusters=7, nmi=0.5978, ari=0.4030, ami=0.5962, time_cost=0.3887s
+
+2022-12-11 17:44:30: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=104, n_clusters=7, nmi=0.5978, ari=0.4030, ami=0.5962, time_cost=0.5419s
+
+2022-12-11 17:44:30: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=105, n_clusters=7, nmi=0.5871, ari=0.3846, ami=0.5854, time_cost=0.3862s
+
+2022-12-11 17:44:31: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=106, n_clusters=7, nmi=0.5978, ari=0.4030, ami=0.5962, time_cost=0.4709s
+
+2022-12-11 17:44:31: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=107, n_clusters=7, nmi=0.5978, ari=0.4030, ami=0.5962, time_cost=0.5898s
+
+2022-12-11 17:44:32: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=108, n_clusters=7, nmi=0.5978, ari=0.4030, ami=0.5962, time_cost=0.4218s
+
+2022-12-11 17:44:32: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=109, n_clusters=7, nmi=0.5871, ari=0.3846, ami=0.5854, time_cost=0.5593s
+
+2022-12-11 17:44:33: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=110, n_clusters=7, nmi=0.5978, ari=0.4030, ami=0.5962, time_cost=0.4087s
+
+2022-12-11 17:44:33: segmentation datasets process: alg_name=QuickDSC, shape=(2310, 19), k_neighbors=111, n_clusters=7, nmi=0.5965, ari=0.4009, ami=0.5948, time_cost=0.5454s
+
+2022-12-11 17:53:45: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=2, n_clusters=5, nmi=0.6298, ari=0.4210, ami=0.6293, time_cost=18.9918s
+
+2022-12-11 17:54:02: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=3, n_clusters=5, nmi=0.6351, ari=0.5102, ami=0.6347, time_cost=17.3598s
+
+2022-12-11 17:54:18: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=4, n_clusters=5, nmi=0.6291, ari=0.4486, ami=0.6286, time_cost=15.8485s
+
+2022-12-11 17:54:32: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=5, n_clusters=5, nmi=0.6446, ari=0.4970, ami=0.6442, time_cost=14.1586s
+
+2022-12-11 17:54:44: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=6, n_clusters=5, nmi=0.6405, ari=0.4569, ami=0.6400, time_cost=12.1612s
+
+2022-12-11 17:54:56: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=7, n_clusters=5, nmi=0.6274, ari=0.3791, ami=0.6269, time_cost=11.5340s
+
+2022-12-11 17:55:07: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=8, n_clusters=5, nmi=0.6468, ari=0.5633, ami=0.6463, time_cost=11.5765s
+
+2022-12-11 17:55:19: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=9, n_clusters=5, nmi=0.6387, ari=0.4650, ami=0.6382, time_cost=12.0220s
+
+2022-12-11 17:55:31: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=10, n_clusters=5, nmi=0.6972, ari=0.6028, ami=0.6969, time_cost=12.0208s
+
+2022-12-11 17:55:42: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=11, n_clusters=5, nmi=0.7042, ari=0.6104, ami=0.7038, time_cost=10.9400s
+
+2022-12-11 17:55:54: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=12, n_clusters=5, nmi=0.6609, ari=0.5780, ami=0.6604, time_cost=11.8346s
+
+2022-12-11 17:56:06: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=13, n_clusters=5, nmi=0.8366, ari=0.7460, ami=0.8364, time_cost=11.9236s
+
+2022-12-11 17:56:17: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=14, n_clusters=5, nmi=0.6891, ari=0.5824, ami=0.6887, time_cost=11.0400s
+
+2022-12-11 17:56:29: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=15, n_clusters=5, nmi=0.7697, ari=0.6644, ami=0.7694, time_cost=11.5403s
+
+2022-12-11 17:56:40: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=16, n_clusters=5, nmi=0.7871, ari=0.6816, ami=0.7868, time_cost=11.3517s
+
+2022-12-11 17:56:52: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=17, n_clusters=5, nmi=0.7843, ari=0.6801, ami=0.7841, time_cost=11.8883s
+
+2022-12-11 17:57:06: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=18, n_clusters=5, nmi=0.7885, ari=0.6851, ami=0.7883, time_cost=13.7298s
+
+2022-12-11 17:57:19: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=19, n_clusters=5, nmi=0.7892, ari=0.6867, ami=0.7889, time_cost=13.2729s
+
+2022-12-11 17:57:33: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=20, n_clusters=5, nmi=0.8072, ari=0.7090, ami=0.8070, time_cost=13.7081s
+
+2022-12-11 17:57:48: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=21, n_clusters=5, nmi=0.7977, ari=0.6990, ami=0.7975, time_cost=14.8680s
+
+2022-12-11 17:57:59: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=22, n_clusters=5, nmi=0.6472, ari=0.3982, ami=0.6467, time_cost=11.4276s
+
+2022-12-11 17:58:10: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=23, n_clusters=5, nmi=0.6484, ari=0.3989, ami=0.6479, time_cost=10.5480s
+
+2022-12-11 17:58:21: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=24, n_clusters=5, nmi=0.6478, ari=0.3984, ami=0.6473, time_cost=10.9688s
+
+2022-12-11 17:58:31: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=25, n_clusters=5, nmi=0.6433, ari=0.3951, ami=0.6429, time_cost=9.9762s
+
+2022-12-11 17:58:42: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=26, n_clusters=5, nmi=0.6459, ari=0.3953, ami=0.6454, time_cost=11.3798s
+
+2022-12-11 17:58:54: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=27, n_clusters=5, nmi=0.6459, ari=0.3953, ami=0.6454, time_cost=11.8111s
+
+2022-12-11 17:59:05: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=28, n_clusters=5, nmi=0.6444, ari=0.3954, ami=0.6440, time_cost=11.4657s
+
+2022-12-11 17:59:17: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=29, n_clusters=5, nmi=0.6638, ari=0.4303, ami=0.6634, time_cost=11.1762s
+
+2022-12-11 17:59:28: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=30, n_clusters=5, nmi=0.6472, ari=0.3975, ami=0.6468, time_cost=11.3974s
+
+2022-12-11 17:59:39: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=31, n_clusters=5, nmi=0.6283, ari=0.3749, ami=0.6278, time_cost=10.7414s
+
+2022-12-11 17:59:50: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=32, n_clusters=5, nmi=0.6450, ari=0.4056, ami=0.6445, time_cost=11.5211s
+
+2022-12-11 18:00:02: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=33, n_clusters=5, nmi=0.6428, ari=0.4058, ami=0.6423, time_cost=11.4463s
+
+2022-12-11 18:00:13: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=34, n_clusters=5, nmi=0.6428, ari=0.4050, ami=0.6424, time_cost=11.2805s
+
+2022-12-11 18:00:24: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=35, n_clusters=5, nmi=0.6430, ari=0.4042, ami=0.6425, time_cost=10.5441s
+
+2022-12-11 18:00:35: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=36, n_clusters=5, nmi=0.6499, ari=0.4747, ami=0.6495, time_cost=11.4751s
+
+2022-12-11 18:00:46: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=37, n_clusters=5, nmi=0.6594, ari=0.4983, ami=0.6590, time_cost=10.5635s
+
+2022-12-11 18:00:58: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=38, n_clusters=5, nmi=0.6594, ari=0.4975, ami=0.6590, time_cost=11.8569s
+
+2022-12-11 18:01:09: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=39, n_clusters=5, nmi=0.6521, ari=0.4762, ami=0.6517, time_cost=11.1302s
+
+2022-12-11 18:01:20: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=40, n_clusters=5, nmi=0.6538, ari=0.4787, ami=0.6533, time_cost=11.0547s
+
+2022-12-11 18:01:31: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=41, n_clusters=5, nmi=0.6531, ari=0.4783, ami=0.6527, time_cost=11.0325s
+
+2022-12-11 18:01:43: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=42, n_clusters=5, nmi=0.6668, ari=0.4863, ami=0.6664, time_cost=12.3440s
+
+2022-12-11 18:01:55: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=43, n_clusters=5, nmi=0.6662, ari=0.4860, ami=0.6658, time_cost=11.4580s
+
+2022-12-11 18:02:07: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=44, n_clusters=5, nmi=0.6675, ari=0.5025, ami=0.6671, time_cost=11.8615s
+
+2022-12-11 18:02:19: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=45, n_clusters=5, nmi=0.6673, ari=0.5020, ami=0.6670, time_cost=12.1860s
+
+2022-12-11 18:02:30: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=46, n_clusters=5, nmi=0.6680, ari=0.5023, ami=0.6676, time_cost=11.5166s
+
+2022-12-11 18:02:42: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=47, n_clusters=5, nmi=0.6633, ari=0.4855, ami=0.6629, time_cost=11.8893s
+
+2022-12-11 18:02:54: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=48, n_clusters=5, nmi=0.6632, ari=0.4854, ami=0.6627, time_cost=11.5570s
+
+2022-12-11 18:03:06: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=49, n_clusters=5, nmi=0.6632, ari=0.4854, ami=0.6627, time_cost=12.5600s
+
+2022-12-11 18:03:17: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=50, n_clusters=5, nmi=0.6644, ari=0.4812, ami=0.6640, time_cost=10.9813s
+
+2022-12-11 18:03:29: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=51, n_clusters=5, nmi=0.6646, ari=0.4811, ami=0.6642, time_cost=11.4939s
+
+2022-12-11 18:03:41: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=52, n_clusters=5, nmi=0.6669, ari=0.4859, ami=0.6665, time_cost=11.9317s
+
+2022-12-11 18:03:52: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=53, n_clusters=5, nmi=0.6810, ari=0.5246, ami=0.6806, time_cost=11.4008s
+
+2022-12-11 18:04:04: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=54, n_clusters=5, nmi=0.6685, ari=0.5184, ami=0.6681, time_cost=11.7616s
+
+2022-12-11 18:04:16: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=55, n_clusters=5, nmi=0.6641, ari=0.5142, ami=0.6637, time_cost=11.5330s
+
+2022-12-11 18:04:28: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=56, n_clusters=5, nmi=0.6770, ari=0.5230, ami=0.6767, time_cost=12.0539s
+
+2022-12-11 18:04:39: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=57, n_clusters=5, nmi=0.6433, ari=0.3987, ami=0.6429, time_cost=11.5211s
+
+2022-12-11 18:04:52: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=58, n_clusters=5, nmi=0.6433, ari=0.3987, ami=0.6429, time_cost=12.7455s
+
+2022-12-11 18:05:03: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=59, n_clusters=5, nmi=0.6466, ari=0.3997, ami=0.6462, time_cost=10.8641s
+
+2022-12-11 18:05:15: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=60, n_clusters=5, nmi=0.6466, ari=0.3997, ami=0.6462, time_cost=12.1554s
+
+2022-12-11 18:05:28: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=61, n_clusters=5, nmi=0.6797, ari=0.4363, ami=0.6793, time_cost=12.9723s
+
+2022-12-11 18:05:39: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=62, n_clusters=5, nmi=0.6466, ari=0.3997, ami=0.6462, time_cost=11.2359s
+
+2022-12-11 18:05:51: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=63, n_clusters=5, nmi=0.6466, ari=0.3997, ami=0.6462, time_cost=11.8773s
+
+2022-12-11 18:06:03: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=64, n_clusters=5, nmi=0.6474, ari=0.4000, ami=0.6469, time_cost=11.7272s
+
+2022-12-11 18:06:14: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=65, n_clusters=5, nmi=0.6474, ari=0.4000, ami=0.6469, time_cost=10.7590s
+
+2022-12-11 18:06:24: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=66, n_clusters=5, nmi=0.6441, ari=0.3991, ami=0.6436, time_cost=10.7056s
+
+2022-12-11 18:06:38: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=67, n_clusters=5, nmi=0.6772, ari=0.4357, ami=0.6768, time_cost=13.1250s
+
+2022-12-11 18:06:50: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=68, n_clusters=5, nmi=0.6765, ari=0.4355, ami=0.6761, time_cost=12.3331s
+
+2022-12-11 18:07:02: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=69, n_clusters=5, nmi=0.6765, ari=0.4355, ami=0.6761, time_cost=11.7123s
+
+2022-12-11 18:07:13: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=70, n_clusters=5, nmi=0.6457, ari=0.4010, ami=0.6452, time_cost=11.0754s
+
+2022-12-11 18:07:24: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=71, n_clusters=5, nmi=0.6457, ari=0.4010, ami=0.6452, time_cost=11.7238s
+
+2022-12-11 18:07:36: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=72, n_clusters=5, nmi=0.6434, ari=0.3989, ami=0.6430, time_cost=11.9397s
+
+2022-12-11 18:07:49: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=73, n_clusters=5, nmi=0.6467, ari=0.3999, ami=0.6462, time_cost=12.2177s
+
+2022-12-11 18:08:00: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=74, n_clusters=5, nmi=0.6467, ari=0.3999, ami=0.6462, time_cost=11.4999s
+
+2022-12-11 18:08:12: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=75, n_clusters=5, nmi=0.6506, ari=0.4036, ami=0.6502, time_cost=12.1848s
+
+2022-12-11 18:08:24: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=76, n_clusters=5, nmi=0.6506, ari=0.4036, ami=0.6502, time_cost=12.0250s
+
+2022-12-11 18:08:36: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=77, n_clusters=5, nmi=0.6506, ari=0.4036, ami=0.6502, time_cost=11.7245s
+
+2022-12-11 18:08:48: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=78, n_clusters=5, nmi=0.6506, ari=0.4036, ami=0.6502, time_cost=11.8139s
+
+2022-12-11 18:09:00: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=79, n_clusters=5, nmi=0.6506, ari=0.4036, ami=0.6502, time_cost=11.8968s
+
+2022-12-11 18:09:12: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=80, n_clusters=5, nmi=0.6473, ari=0.4026, ami=0.6469, time_cost=11.8122s
+
+2022-12-11 18:09:23: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=81, n_clusters=5, nmi=0.6485, ari=0.4037, ami=0.6480, time_cost=11.1164s
+
+2022-12-11 18:09:35: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=82, n_clusters=5, nmi=0.6473, ari=0.4025, ami=0.6468, time_cost=11.7225s
+
+2022-12-11 18:09:46: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=83, n_clusters=5, nmi=0.6517, ari=0.4045, ami=0.6512, time_cost=11.4729s
+
+2022-12-11 18:09:58: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=84, n_clusters=5, nmi=0.6505, ari=0.4034, ami=0.6501, time_cost=11.9893s
+
+2022-12-11 18:10:10: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=85, n_clusters=5, nmi=0.6517, ari=0.4045, ami=0.6512, time_cost=11.5465s
+
+2022-12-11 18:10:21: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=86, n_clusters=5, nmi=0.6517, ari=0.4045, ami=0.6512, time_cost=11.7181s
+
+2022-12-11 18:10:34: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=87, n_clusters=5, nmi=0.6484, ari=0.4036, ami=0.6480, time_cost=12.0762s
+
+2022-12-11 18:10:46: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=88, n_clusters=5, nmi=0.6517, ari=0.4046, ami=0.6512, time_cost=12.4565s
+
+2022-12-11 18:10:58: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=89, n_clusters=5, nmi=0.6517, ari=0.4046, ami=0.6512, time_cost=11.9672s
+
+2022-12-11 18:11:10: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=90, n_clusters=5, nmi=0.6517, ari=0.4046, ami=0.6512, time_cost=11.7621s
+
+2022-12-11 18:11:22: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=91, n_clusters=5, nmi=0.6506, ari=0.4035, ami=0.6501, time_cost=12.3816s
+
+2022-12-11 18:11:34: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=92, n_clusters=5, nmi=0.6473, ari=0.4026, ami=0.6468, time_cost=12.0440s
+
+2022-12-11 18:11:46: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=93, n_clusters=5, nmi=0.6473, ari=0.4026, ami=0.6468, time_cost=12.1876s
+
+2022-12-11 18:12:00: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=94, n_clusters=5, nmi=0.6473, ari=0.4026, ami=0.6468, time_cost=13.2422s
+
+2022-12-11 18:12:12: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=95, n_clusters=5, nmi=0.6473, ari=0.4026, ami=0.6468, time_cost=12.2735s
+
+2022-12-11 18:12:23: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=96, n_clusters=5, nmi=0.6473, ari=0.4026, ami=0.6468, time_cost=11.4202s
+
+2022-12-11 18:12:35: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=97, n_clusters=5, nmi=0.6473, ari=0.4026, ami=0.6468, time_cost=12.0481s
+
+2022-12-11 18:12:49: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=98, n_clusters=5, nmi=0.6473, ari=0.4026, ami=0.6468, time_cost=13.6249s
+
+2022-12-11 18:13:02: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=99, n_clusters=5, nmi=0.6537, ari=0.4081, ami=0.6533, time_cost=12.5394s
+
+2022-12-11 18:13:14: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=100, n_clusters=5, nmi=0.6490, ari=0.4038, ami=0.6486, time_cost=11.9897s
+
+2022-12-11 18:13:25: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=101, n_clusters=5, nmi=0.6490, ari=0.4038, ami=0.6486, time_cost=11.4927s
+
+2022-12-11 18:13:38: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=102, n_clusters=5, nmi=0.6490, ari=0.4038, ami=0.6486, time_cost=12.5095s
+
+2022-12-11 18:13:50: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=103, n_clusters=5, nmi=0.6490, ari=0.4038, ami=0.6486, time_cost=12.0895s
+
+2022-12-11 18:14:02: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=104, n_clusters=5, nmi=0.6524, ari=0.4047, ami=0.6519, time_cost=12.6709s
+
+2022-12-11 18:14:15: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=105, n_clusters=5, nmi=0.6570, ari=0.4090, ami=0.6566, time_cost=12.5653s
+
+2022-12-11 18:14:27: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=106, n_clusters=5, nmi=0.6570, ari=0.4090, ami=0.6566, time_cost=12.3187s
+
+2022-12-11 18:14:40: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=107, n_clusters=5, nmi=0.8353, ari=0.7460, ami=0.8351, time_cost=12.2725s
+
+2022-12-11 18:14:52: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=108, n_clusters=5, nmi=0.8353, ari=0.7460, ami=0.8351, time_cost=12.4332s
+
+2022-12-11 18:15:03: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=109, n_clusters=5, nmi=0.8353, ari=0.7460, ami=0.8351, time_cost=11.1984s
+
+2022-12-11 18:15:16: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=110, n_clusters=5, nmi=0.8353, ari=0.7460, ami=0.8351, time_cost=12.9075s
+
+2022-12-11 18:15:28: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=111, n_clusters=5, nmi=0.6577, ari=0.4092, ami=0.6573, time_cost=12.0051s
+
+2022-12-11 18:15:42: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=112, n_clusters=5, nmi=0.6543, ari=0.4083, ami=0.6539, time_cost=13.3583s
+
+2022-12-11 18:15:55: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=113, n_clusters=5, nmi=0.6543, ari=0.4083, ami=0.6539, time_cost=13.5863s
+
+2022-12-11 18:16:08: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=114, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.3852s
+
+2022-12-11 18:16:22: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=115, n_clusters=5, nmi=0.6543, ari=0.4083, ami=0.6539, time_cost=14.1734s
+
+2022-12-11 18:16:36: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=116, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=14.2018s
+
+2022-12-11 18:16:50: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=117, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=13.8122s
+
+2022-12-11 18:17:03: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=118, n_clusters=5, nmi=0.6543, ari=0.4083, ami=0.6539, time_cost=13.0941s
+
+2022-12-11 18:17:17: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=119, n_clusters=5, nmi=0.6543, ari=0.4083, ami=0.6539, time_cost=13.5873s
+
+2022-12-11 18:17:30: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=120, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=13.7005s
+
+2022-12-11 18:17:43: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=121, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.2220s
+
+2022-12-11 18:17:56: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=122, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=13.7551s
+
+2022-12-11 18:18:08: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=123, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=11.6504s
+
+2022-12-11 18:18:20: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=124, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.3229s
+
+2022-12-11 18:18:32: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=125, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.0028s
+
+2022-12-11 18:18:44: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=126, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=11.6550s
+
+2022-12-11 18:18:57: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=127, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.5681s
+
+2022-12-11 18:19:11: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=128, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=13.9685s
+
+2022-12-11 18:19:26: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=129, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=15.0905s
+
+2022-12-11 18:19:39: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=130, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.8462s
+
+2022-12-11 18:19:52: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=131, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=13.2004s
+
+2022-12-11 18:20:04: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=132, n_clusters=5, nmi=0.6503, ari=0.4045, ami=0.6498, time_cost=11.7956s
+
+2022-12-11 18:20:15: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=133, n_clusters=5, nmi=0.6503, ari=0.4045, ami=0.6498, time_cost=11.6339s
+
+2022-12-11 18:20:28: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=134, n_clusters=5, nmi=0.6503, ari=0.4045, ami=0.6498, time_cost=13.0020s
+
+2022-12-11 18:20:41: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=135, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.5502s
+
+2022-12-11 18:20:53: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=136, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.4153s
+
+2022-12-11 18:21:06: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=137, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.7760s
+
+2022-12-11 18:21:19: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=138, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=13.1373s
+
+2022-12-11 18:21:32: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=139, n_clusters=5, nmi=0.6497, ari=0.4040, ami=0.6492, time_cost=12.5231s
+
+2022-12-11 18:21:44: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=140, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=12.6498s
+
+2022-12-11 18:21:59: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=141, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=14.3128s
+
+2022-12-11 18:22:12: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=142, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=13.0638s
+
+2022-12-11 18:22:25: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=143, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=13.3147s
+
+2022-12-11 18:22:39: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=144, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=13.6274s
+
+2022-12-11 18:22:52: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=145, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=12.7925s
+
+2022-12-11 18:23:04: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=146, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=12.2804s
+
+2022-12-11 18:23:16: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=147, n_clusters=5, nmi=0.6520, ari=0.4061, ami=0.6515, time_cost=12.5104s
+
+2022-12-11 18:23:28: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=148, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=12.0077s
+
+2022-12-11 18:23:40: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=149, n_clusters=5, nmi=0.6520, ari=0.4061, ami=0.6515, time_cost=11.4747s
+
+2022-12-11 18:23:53: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=150, n_clusters=5, nmi=0.6508, ari=0.4050, ami=0.6504, time_cost=12.6394s
+
+2022-12-11 18:24:06: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=151, n_clusters=5, nmi=0.6485, ari=0.4029, ami=0.6481, time_cost=13.8751s
+
+2022-12-11 18:24:19: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=152, n_clusters=5, nmi=0.6485, ari=0.4029, ami=0.6481, time_cost=12.8504s
+
+2022-12-11 18:24:32: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=153, n_clusters=5, nmi=0.6485, ari=0.4029, ami=0.6481, time_cost=12.2243s
+
+2022-12-11 18:24:44: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=154, n_clusters=5, nmi=0.6485, ari=0.4029, ami=0.6481, time_cost=12.8240s
+
+2022-12-11 18:24:58: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=155, n_clusters=5, nmi=0.6485, ari=0.4029, ami=0.6481, time_cost=13.7641s
+
+2022-12-11 18:25:11: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=156, n_clusters=5, nmi=0.6485, ari=0.4029, ami=0.6481, time_cost=12.4679s
+
+2022-12-11 18:25:23: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=157, n_clusters=5, nmi=0.6485, ari=0.4029, ami=0.6481, time_cost=12.3902s
+
+2022-12-11 18:25:36: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=158, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=13.0065s
+
+2022-12-11 18:25:49: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=159, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=12.6902s
+
+2022-12-11 18:26:02: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=160, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=13.1264s
+
+2022-12-11 18:26:14: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=161, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=12.2312s
+
+2022-12-11 18:26:29: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=162, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=14.3566s
+
+2022-12-11 18:26:40: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=163, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=11.8548s
+
+2022-12-11 18:26:53: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=164, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=12.6604s
+
+2022-12-11 18:27:07: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=165, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=13.4226s
+
+2022-12-11 18:27:20: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=166, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=13.3386s
+
+2022-12-11 18:27:32: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=167, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=12.4388s
+
+2022-12-11 18:27:46: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=168, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=13.8777s
+
+2022-12-11 18:27:59: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=169, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=12.3981s
+
+2022-12-11 18:28:12: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=170, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=13.2168s
+
+2022-12-11 18:28:25: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=171, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=12.7323s
+
+2022-12-11 18:28:38: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=172, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=12.9390s
+
+2022-12-11 18:28:51: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=173, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=13.8656s
+
+2022-12-11 18:29:07: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=174, n_clusters=5, nmi=0.6555, ari=0.4047, ami=0.6550, time_cost=15.9242s
+
+2022-12-11 18:29:21: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=175, n_clusters=5, nmi=0.6555, ari=0.4047, ami=0.6550, time_cost=13.8172s
+
+2022-12-11 18:29:35: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=176, n_clusters=5, nmi=0.6555, ari=0.4047, ami=0.6550, time_cost=13.6805s
+
+2022-12-11 18:29:47: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=177, n_clusters=5, nmi=0.6555, ari=0.4047, ami=0.6550, time_cost=12.3511s
+
+2022-12-11 18:30:01: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=178, n_clusters=5, nmi=0.6555, ari=0.4047, ami=0.6550, time_cost=13.9944s
+
+2022-12-11 18:30:15: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=179, n_clusters=5, nmi=0.6544, ari=0.4036, ami=0.6539, time_cost=13.6390s
+
+2022-12-11 18:30:29: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=180, n_clusters=5, nmi=0.6555, ari=0.4047, ami=0.6550, time_cost=13.9705s
+
+2022-12-11 18:30:43: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=181, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=14.3257s
+
+2022-12-11 18:30:57: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=182, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.6091s
+
+2022-12-11 18:31:11: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=183, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.8022s
+
+2022-12-11 18:31:25: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=184, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=14.2403s
+
+2022-12-11 18:31:40: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=185, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=14.7195s
+
+2022-12-11 18:31:54: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=186, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=14.2783s
+
+2022-12-11 18:32:08: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=187, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=14.2354s
+
+2022-12-11 18:32:23: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=188, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=14.2090s
+
+2022-12-11 18:32:38: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=189, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=15.2038s
+
+2022-12-11 18:32:53: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=190, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=15.5902s
+
+2022-12-11 18:33:08: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=191, n_clusters=5, nmi=0.6480, ari=0.4024, ami=0.6475, time_cost=14.3110s
+
+2022-12-11 18:33:21: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=192, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=12.7620s
+
+2022-12-11 18:33:34: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=193, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.2904s
+
+2022-12-11 18:33:46: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=194, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=12.4525s
+
+2022-12-11 18:34:00: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=195, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=14.0737s
+
+2022-12-11 18:34:14: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=196, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.9155s
+
+2022-12-11 18:34:28: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=197, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.5515s
+
+2022-12-11 18:34:40: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=198, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=11.7474s
+
+2022-12-11 18:34:55: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=199, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=14.8456s
+
+2022-12-11 18:35:07: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=200, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=12.5295s
+
+2022-12-11 18:35:20: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=201, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=12.4243s
+
+2022-12-11 18:35:33: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=202, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.7952s
+
+2022-12-11 18:35:47: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=203, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.4502s
+
+2022-12-11 18:36:00: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=204, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.2344s
+
+2022-12-11 18:36:14: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=205, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.9249s
+
+2022-12-11 18:36:28: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=206, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.8165s
+
+2022-12-11 18:36:41: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=207, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.5007s
+
+2022-12-11 18:36:55: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=208, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.6858s
+
+2022-12-11 18:37:08: phoneme datasets process: alg_name=QuickDSC, shape=(4509, 256), k_neighbors=209, n_clusters=5, nmi=0.6532, ari=0.4026, ami=0.6528, time_cost=13.3206s
+
+2022-12-12 01:02:44: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=2, n_clusters=60, nmi=0.7324, ari=0.3582, ami=0.7182, time_cost=1.6613s
+
+2022-12-12 01:02:45: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=3, n_clusters=60, nmi=0.7306, ari=0.3574, ami=0.7153, time_cost=1.2242s
+
+2022-12-12 01:02:47: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=4, n_clusters=60, nmi=0.7287, ari=0.3534, ami=0.7130, time_cost=1.2742s
+
+2022-12-12 01:02:48: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=5, n_clusters=60, nmi=0.7340, ari=0.4350, ami=0.7178, time_cost=1.1253s
+
+2022-12-12 01:02:49: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=6, n_clusters=60, nmi=0.7299, ari=0.4430, ami=0.7133, time_cost=1.1258s
+
+2022-12-12 01:02:50: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=7, n_clusters=60, nmi=0.7239, ari=0.4308, ami=0.7075, time_cost=1.0821s
+
+2022-12-12 01:02:51: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=8, n_clusters=60, nmi=0.7262, ari=0.4571, ami=0.7115, time_cost=1.1987s
+
+2022-12-12 01:02:53: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=9, n_clusters=60, nmi=0.7114, ari=0.3967, ami=0.6977, time_cost=1.2320s
+
+2022-12-12 01:02:54: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=10, n_clusters=60, nmi=0.7087, ari=0.3955, ami=0.6953, time_cost=1.1398s
+
+2022-12-12 01:02:55: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=11, n_clusters=60, nmi=0.6894, ari=0.3808, ami=0.6765, time_cost=1.2502s
+
+2022-12-12 01:02:56: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=12, n_clusters=60, nmi=0.6955, ari=0.3532, ami=0.6823, time_cost=1.2241s
+
+2022-12-12 01:02:58: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=13, n_clusters=60, nmi=0.6881, ari=0.3476, ami=0.6754, time_cost=1.2090s
+
+2022-12-12 01:02:59: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=14, n_clusters=60, nmi=0.6546, ari=0.2456, ami=0.6403, time_cost=1.1334s
+
+2022-12-12 01:03:00: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=15, n_clusters=60, nmi=0.6418, ari=0.2437, ami=0.6276, time_cost=1.2142s
+
+2022-12-12 01:03:02: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=16, n_clusters=60, nmi=0.6459, ari=0.2471, ami=0.6320, time_cost=1.5458s
+
+2022-12-12 01:03:03: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=17, n_clusters=60, nmi=0.6355, ari=0.2412, ami=0.6225, time_cost=1.5629s
+
+2022-12-12 01:03:04: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=18, n_clusters=60, nmi=0.6264, ari=0.2313, ami=0.6131, time_cost=1.2253s
+
+2022-12-12 01:03:06: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=19, n_clusters=60, nmi=0.6326, ari=0.2326, ami=0.6192, time_cost=1.2778s
+
+2022-12-12 01:03:07: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=20, n_clusters=60, nmi=0.6428, ari=0.2360, ami=0.6290, time_cost=1.2909s
+
+2022-12-12 01:03:08: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=21, n_clusters=60, nmi=0.6464, ari=0.2430, ami=0.6329, time_cost=1.2569s
+
+2022-12-12 01:03:10: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=22, n_clusters=60, nmi=0.6345, ari=0.2306, ami=0.6213, time_cost=1.5710s
+
+2022-12-12 01:03:12: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=23, n_clusters=60, nmi=0.6193, ari=0.2240, ami=0.6063, time_cost=1.4282s
+
+2022-12-12 01:03:13: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=24, n_clusters=60, nmi=0.6295, ari=0.2321, ami=0.6163, time_cost=1.5047s
+
+2022-12-12 01:03:15: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=25, n_clusters=60, nmi=0.6293, ari=0.2312, ami=0.6159, time_cost=1.4581s
+
+2022-12-12 01:03:16: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=26, n_clusters=60, nmi=0.6207, ari=0.2244, ami=0.6067, time_cost=1.5164s
+
+2022-12-12 01:03:18: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=27, n_clusters=60, nmi=0.6204, ari=0.2325, ami=0.6070, time_cost=1.5535s
+
+2022-12-12 01:03:20: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=28, n_clusters=60, nmi=0.6209, ari=0.2319, ami=0.6077, time_cost=1.8337s
+
+2022-12-12 01:03:21: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=29, n_clusters=60, nmi=0.6130, ari=0.2296, ami=0.5995, time_cost=1.5809s
+
+2022-12-12 01:03:23: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=30, n_clusters=60, nmi=0.6261, ari=0.2356, ami=0.6126, time_cost=1.4714s
+
+2022-12-12 01:03:24: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=31, n_clusters=60, nmi=0.6253, ari=0.2362, ami=0.6120, time_cost=1.4389s
+
+2022-12-12 01:03:26: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=32, n_clusters=60, nmi=0.6241, ari=0.2348, ami=0.6107, time_cost=1.4068s
+
+2022-12-12 01:03:27: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=33, n_clusters=60, nmi=0.6195, ari=0.2339, ami=0.6063, time_cost=1.5487s
+
+2022-12-12 01:03:29: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=34, n_clusters=60, nmi=0.6269, ari=0.2348, ami=0.6137, time_cost=1.5827s
+
+2022-12-12 01:03:30: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=35, n_clusters=60, nmi=0.6256, ari=0.2335, ami=0.6123, time_cost=1.5785s
+
+2022-12-12 01:03:32: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=36, n_clusters=60, nmi=0.6296, ari=0.2444, ami=0.6170, time_cost=1.6805s
+
+2022-12-12 01:03:34: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=37, n_clusters=60, nmi=0.6314, ari=0.2458, ami=0.6192, time_cost=1.7191s
+
+2022-12-12 01:03:36: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=38, n_clusters=60, nmi=0.6088, ari=0.1759, ami=0.5953, time_cost=1.7940s
+
+2022-12-12 01:03:38: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=39, n_clusters=60, nmi=0.5963, ari=0.1734, ami=0.5832, time_cost=1.8889s
+
+2022-12-12 01:03:39: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=40, n_clusters=60, nmi=0.6221, ari=0.1830, ami=0.6093, time_cost=1.5882s
+
+2022-12-12 01:03:41: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=41, n_clusters=60, nmi=0.6021, ari=0.1769, ami=0.5893, time_cost=1.9489s
+
+2022-12-12 01:03:43: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=42, n_clusters=60, nmi=0.6058, ari=0.1788, ami=0.5928, time_cost=1.7897s
+
+2022-12-12 01:03:45: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=43, n_clusters=60, nmi=0.5827, ari=0.1732, ami=0.5702, time_cost=1.8960s
+
+2022-12-12 01:03:47: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=44, n_clusters=60, nmi=0.5970, ari=0.1710, ami=0.5840, time_cost=1.9903s
+
+2022-12-12 01:03:49: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=45, n_clusters=60, nmi=0.5924, ari=0.1590, ami=0.5793, time_cost=1.7816s
+
+2022-12-12 01:03:51: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=46, n_clusters=60, nmi=0.5800, ari=0.1567, ami=0.5670, time_cost=1.7232s
+
+2022-12-12 01:03:53: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=47, n_clusters=60, nmi=0.5854, ari=0.1509, ami=0.5724, time_cost=1.7898s
+
+2022-12-12 01:03:54: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=48, n_clusters=60, nmi=0.5705, ari=0.1557, ami=0.5575, time_cost=1.7460s
+
+2022-12-12 01:03:56: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=49, n_clusters=60, nmi=0.5756, ari=0.1584, ami=0.5629, time_cost=1.7923s
+
+2022-12-12 01:03:58: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=50, n_clusters=60, nmi=0.5843, ari=0.1602, ami=0.5714, time_cost=2.0144s
+
+2022-12-12 01:04:01: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=51, n_clusters=60, nmi=0.5853, ari=0.1605, ami=0.5726, time_cost=2.3382s
+
+2022-12-12 01:04:03: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=52, n_clusters=60, nmi=0.5761, ari=0.1597, ami=0.5638, time_cost=2.3255s
+
+2022-12-12 01:04:05: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=53, n_clusters=60, nmi=0.5759, ari=0.1598, ami=0.5637, time_cost=2.0653s
+
+2022-12-12 01:04:07: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=54, n_clusters=60, nmi=0.5906, ari=0.1630, ami=0.5783, time_cost=2.1462s
+
+2022-12-12 01:04:10: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=55, n_clusters=60, nmi=0.5781, ari=0.1494, ami=0.5655, time_cost=2.3878s
+
+2022-12-12 01:04:12: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=56, n_clusters=60, nmi=0.5708, ari=0.1485, ami=0.5586, time_cost=2.2058s
+
+2022-12-12 01:04:15: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=57, n_clusters=60, nmi=0.5768, ari=0.1491, ami=0.5648, time_cost=2.5786s
+
+2022-12-12 01:04:17: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=58, n_clusters=60, nmi=0.6195, ari=0.2251, ami=0.6087, time_cost=2.2949s
+
+2022-12-12 01:04:19: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=59, n_clusters=60, nmi=0.6203, ari=0.2253, ami=0.6096, time_cost=1.9102s
+
+2022-12-12 01:04:21: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=60, n_clusters=60, nmi=0.6188, ari=0.2249, ami=0.6081, time_cost=1.9642s
+
+2022-12-12 01:04:23: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=61, n_clusters=60, nmi=0.6141, ari=0.2203, ami=0.6031, time_cost=2.0250s
+
+2022-12-12 01:04:25: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=62, n_clusters=60, nmi=0.6219, ari=0.2386, ami=0.6110, time_cost=1.9144s
+
+2022-12-12 01:04:27: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=63, n_clusters=60, nmi=0.6196, ari=0.2188, ami=0.6087, time_cost=2.0432s
+
+2022-12-12 01:04:29: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=64, n_clusters=60, nmi=0.6151, ari=0.2178, ami=0.6041, time_cost=2.1661s
+
+2022-12-12 01:04:31: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=65, n_clusters=60, nmi=0.5621, ari=0.1517, ami=0.5502, time_cost=2.1011s
+
+2022-12-12 01:04:33: MFCCs datasets process: alg_name=QuickDSC, shape=(7195, 22), k_neighbors=66, n_clusters=60, nmi=0.6031, ari=0.2093, ami=0.5922, time_cost=2.0772s
+
+2022-12-12 05:48:39: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=2, n_clusters=10, nmi=0.3414, ari=0.1583, ami=0.3412, time_cost=16657.9016s
+
+2022-12-12 09:31:27: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=3, n_clusters=10, nmi=0.3316, ari=0.1456, ami=0.3314, time_cost=13367.5632s
+
+2022-12-12 12:58:18: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=4, n_clusters=10, nmi=0.3629, ari=0.2205, ami=0.3627, time_cost=12411.2296s
+
+2022-12-12 16:03:50: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=5, n_clusters=10, nmi=0.3979, ari=0.1841, ami=0.3978, time_cost=11131.6135s
+
+2022-12-12 18:56:32: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=6, n_clusters=10, nmi=0.4575, ari=0.2460, ami=0.4573, time_cost=10361.6158s
+
+2022-12-12 21:51:16: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=7, n_clusters=10, nmi=0.4718, ari=0.2837, ami=0.4717, time_cost=10484.1991s
+
+2022-12-13 00:34:18: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=8, n_clusters=10, nmi=0.4786, ari=0.3121, ami=0.4785, time_cost=9782.1658s
+
+2022-12-13 03:23:25: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=9, n_clusters=10, nmi=0.4517, ari=0.2715, ami=0.4515, time_cost=10146.1400s
+
+2022-12-13 06:09:16: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=10, n_clusters=10, nmi=0.4168, ari=0.1854, ami=0.4166, time_cost=9951.3039s
+
+2022-12-13 08:56:22: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=11, n_clusters=10, nmi=0.4685, ari=0.2479, ami=0.4683, time_cost=10025.8750s
+
+2022-12-13 11:38:29: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=12, n_clusters=10, nmi=0.4491, ari=0.2249, ami=0.4490, time_cost=9727.2481s
+
+2022-12-13 14:24:51: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=13, n_clusters=10, nmi=0.4326, ari=0.2087, ami=0.4324, time_cost=9981.2810s
+
+2022-12-13 17:08:34: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=14, n_clusters=10, nmi=0.5073, ari=0.2788, ami=0.5072, time_cost=9822.4105s
+
+2022-12-13 19:50:33: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=15, n_clusters=10, nmi=0.5913, ari=0.3836, ami=0.5912, time_cost=9718.8913s
+
+2022-12-13 22:32:30: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=16, n_clusters=10, nmi=0.5480, ari=0.3354, ami=0.5479, time_cost=9717.6522s
+
+2022-12-14 01:18:58: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=17, n_clusters=10, nmi=0.5863, ari=0.3860, ami=0.5862, time_cost=9987.2102s
+
+2022-12-14 04:03:53: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=18, n_clusters=10, nmi=0.6489, ari=0.4656, ami=0.6488, time_cost=9894.6202s
+
+2022-12-14 06:47:31: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=19, n_clusters=10, nmi=0.6143, ari=0.4077, ami=0.6142, time_cost=9817.8094s
+
+2022-12-14 09:23:40: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=20, n_clusters=10, nmi=0.6027, ari=0.4099, ami=0.6026, time_cost=9369.2115s
+
+2022-12-14 12:09:21: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=21, n_clusters=10, nmi=0.5938, ari=0.4036, ami=0.5936, time_cost=9940.8369s
+
+2022-12-14 14:49:03: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=22, n_clusters=10, nmi=0.5251, ari=0.3051, ami=0.5250, time_cost=9581.4030s
+
+2022-12-14 17:25:12: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=23, n_clusters=10, nmi=0.5591, ari=0.3460, ami=0.5590, time_cost=9369.7120s
+
+2022-12-14 20:05:21: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=24, n_clusters=10, nmi=0.5135, ari=0.2727, ami=0.5134, time_cost=9608.8120s
+
+2022-12-14 22:49:17: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=25, n_clusters=10, nmi=0.5961, ari=0.3772, ami=0.5960, time_cost=9835.8970s
+
+2022-12-15 01:30:26: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=26, n_clusters=10, nmi=0.6055, ari=0.4115, ami=0.6054, time_cost=9668.0633s
+
+2022-12-15 04:07:00: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=27, n_clusters=10, nmi=0.5104, ari=0.3152, ami=0.5103, time_cost=9393.9699s
+
+2022-12-15 06:52:53: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=28, n_clusters=10, nmi=0.5356, ari=0.3128, ami=0.5355, time_cost=9952.6886s
+
+2022-12-15 09:30:08: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=29, n_clusters=10, nmi=0.5277, ari=0.3017, ami=0.5275, time_cost=9435.2638s
+
+2022-12-15 12:06:53: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=30, n_clusters=10, nmi=0.5641, ari=0.3249, ami=0.5639, time_cost=9405.2323s
+
+2022-12-15 14:42:52: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=31, n_clusters=10, nmi=0.5402, ari=0.3128, ami=0.5401, time_cost=9358.3140s
+
+2022-12-15 17:27:28: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=32, n_clusters=10, nmi=0.5153, ari=0.2742, ami=0.5151, time_cost=9875.8371s
+
+2022-12-15 20:02:33: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=33, n_clusters=10, nmi=0.5837, ari=0.3525, ami=0.5836, time_cost=9304.6736s
+
+2022-12-15 22:39:29: mnist_784 datasets process: alg_name=QuickDSC, shape=(70000, 784), k_neighbors=34, n_clusters=10, nmi=0.5291, ari=0.2808, ami=0.5290, time_cost=9416.3556s

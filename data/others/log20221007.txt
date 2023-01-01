@@ -1,0 +1,78 @@
+
+2022-10-06 13:36:17: WassDPC(in) result: data_name=R15, shape=(600, 2), k_neighbors=16, n_clusters=15 nmi=0.9942285075104654, ari=0.9927781994136302, ami=0.9938103763245357, time_cost=0.03371161129325628s
+
+2022-10-06 13:36:17: WassDPC(out) result: data_name=R15, shape=(600, 2), k_neighbors=16, n_clusters=15 nmi=0.9942285075104654, ari=0.9927781994136302, ami=0.9938103763245357, time_cost=0.030929672997444868s
+
+2022-10-06 13:36:17: WassDPC(out_out) result: data_name=R15, shape=(600, 2), k_neighbors=16, n_clusters=15 nmi=0.9942285075104654, ari=0.9927781994136302, ami=0.9938103763245357, time_cost=0.06448912573978305s
+
+2022-10-06 13:36:18: WassDPC(in) result: data_name=S2, shape=(5000, 2), k_neighbors=133, n_clusters=15 nmi=0.9415278454283972, ari=0.929815860687813, ami=0.9410975245316342, time_cost=0.48256326327100396s
+
+2022-10-06 13:36:18: WassDPC(out) result: data_name=S2, shape=(5000, 2), k_neighbors=133, n_clusters=15 nmi=0.9415278454283972, ari=0.929815860687813, ami=0.9410975245316342, time_cost=0.511911797337234s
+
+2022-10-06 13:36:19: WassDPC(out_out) result: data_name=S2, shape=(5000, 2), k_neighbors=133, n_clusters=15 nmi=0.9415278454283972, ari=0.929815860687813, ami=0.9410975245316342, time_cost=0.5661302777007222s
+
+2022-10-06 13:36:19: WassDPC(in) result: data_name=Flame, shape=(240, 2), k_neighbors=48, n_clusters=2 nmi=1.0, ari=1.0, ami=1.0, time_cost=0.020447971764951944s
+
+2022-10-06 13:36:19: WassDPC(out) result: data_name=Flame, shape=(240, 2), k_neighbors=48, n_clusters=2 nmi=1.0, ari=1.0, ami=1.0, time_cost=0.02043894398957491s
+
+2022-10-06 13:36:19: WassDPC(out_out) result: data_name=Flame, shape=(240, 2), k_neighbors=48, n_clusters=2 nmi=1.0, ari=1.0, ami=1.0, time_cost=0.01934852870181203s
+
+2022-10-06 13:39:22: WassDPC(in) result: data_name=R15, shape=(600, 2), k_neighbors=16, n_clusters=15 nmi=0.9942285075104654, ari=0.9927781994136302, ami=0.9938103763245357, time_cost=0.033439161255955696s
+
+2022-10-06 13:39:22: WassDPC(out) result: data_name=R15, shape=(600, 2), k_neighbors=16, n_clusters=15 nmi=0.9942285075104654, ari=0.9927781994136302, ami=0.9938103763245357, time_cost=0.032325147185474634s
+
+2022-10-06 13:39:22: WassDPC(out_out) result: data_name=R15, shape=(600, 2), k_neighbors=16, n_clusters=15 nmi=0.9942285075104654, ari=0.9927781994136302, ami=0.9938103763245357, time_cost=0.03187914192676544s
+
+2022-10-06 13:39:22: WassDPC(in) result: data_name=S2, shape=(5000, 2), k_neighbors=133, n_clusters=15 nmi=0.9415278454283972, ari=0.929815860687813, ami=0.9410975245316342, time_cost=0.4650436658412218s
+
+2022-10-06 13:39:23: WassDPC(out) result: data_name=S2, shape=(5000, 2), k_neighbors=133, n_clusters=15 nmi=0.9415278454283972, ari=0.929815860687813, ami=0.9410975245316342, time_cost=0.4614988509565592s
+
+2022-10-06 13:39:23: WassDPC(out_out) result: data_name=S2, shape=(5000, 2), k_neighbors=133, n_clusters=15 nmi=0.9415278454283972, ari=0.929815860687813, ami=0.9410975245316342, time_cost=0.6315006026998162s
+
+2022-10-06 13:39:23: WassDPC(in) result: data_name=Flame, shape=(240, 2), k_neighbors=48, n_clusters=2 nmi=1.0, ari=1.0, ami=1.0, time_cost=0.0196195631287992s
+
+2022-10-06 13:39:23: WassDPC(out) result: data_name=Flame, shape=(240, 2), k_neighbors=48, n_clusters=2 nmi=1.0, ari=1.0, ami=1.0, time_cost=0.019817229360342026s
+
+2022-10-06 13:39:23: WassDPC(out_out) result: data_name=Flame, shape=(240, 2), k_neighbors=48, n_clusters=2 nmi=1.0, ari=1.0, ami=1.0, time_cost=0.018768670968711376s
+
+2022-10-06 13:39:33: WassDPC(in) result: data_name=banana-ball, shape=(2000, 2), k_neighbors=266, n_clusters=3 nmi=0.8698482418777779, ari=0.8292153632849026, ami=0.8696860123039396, time_cost=9.775744179729372s
+
+2022-10-06 13:39:34: WassDPC(out) result: data_name=banana-ball, shape=(2000, 2), k_neighbors=266, n_clusters=3 nmi=0.8698482418777779, ari=0.8292153632849026, ami=0.8696860123039396, time_cost=1.1282574832439423s
+
+2022-10-06 13:39:36: WassDPC(out_out) result: data_name=banana-ball, shape=(2000, 2), k_neighbors=266, n_clusters=3 nmi=0.8698482418777779, ari=0.8292153632849026, ami=0.8696860123039396, time_cost=2.063936157617718s
+
+2022-10-06 13:39:37: WassDPC(in) result: data_name=seeds, shape=(210, 7), k_neighbors=28, n_clusters=3 nmi=0.6403731337253072, ari=0.6556721860178075, ami=0.6371767495854754, time_cost=0.016324369236826897s
+
+2022-10-06 13:39:37: WassDPC(out) result: data_name=seeds, shape=(210, 7), k_neighbors=28, n_clusters=3 nmi=0.6403731337253072, ari=0.6556721860178075, ami=0.6371767495854754, time_cost=0.014388403855264187s
+
+2022-10-06 13:39:37: WassDPC(out_out) result: data_name=seeds, shape=(210, 7), k_neighbors=28, n_clusters=3 nmi=0.6403731337253072, ari=0.6556721860178075, ami=0.6371767495854754, time_cost=0.015244788955897093s
+
+2022-10-06 13:39:37: WassDPC(in) result: data_name=banknote, shape=(1372, 4), k_neighbors=274, n_clusters=2 nmi=0.3416788796286135, ari=0.22373640773597367, ami=0.3413067063472818, time_cost=0.20820742519572377s
+
+2022-10-06 13:39:37: WassDPC(out) result: data_name=banknote, shape=(1372, 4), k_neighbors=274, n_clusters=2 nmi=0.3416788796286135, ari=0.22373640773597367, ami=0.3413067063472818, time_cost=0.2054463061504066s
+
+2022-10-06 13:39:37: WassDPC(out_out) result: data_name=banknote, shape=(1372, 4), k_neighbors=274, n_clusters=2 nmi=0.3416788796286135, ari=0.22373640773597367, ami=0.3413067063472818, time_cost=0.2071055918931961s
+
+2022-10-06 13:39:38: WassDPC(in) result: data_name=segmentation, shape=(2310, 19), k_neighbors=132, n_clusters=7 nmi=0.5931564244049611, ari=0.4362444473115138, ami=0.5914516056723479, time_cost=0.4995811767876148s
+
+2022-10-06 13:39:38: WassDPC(out) result: data_name=segmentation, shape=(2310, 19), k_neighbors=132, n_clusters=7 nmi=0.5931564244049611, ari=0.4362444473115138, ami=0.5914516056723479, time_cost=0.5703021762892604s
+
+2022-10-06 13:39:39: WassDPC(out_out) result: data_name=segmentation, shape=(2310, 19), k_neighbors=132, n_clusters=7 nmi=0.5931564244049611, ari=0.4362444473115138, ami=0.5914516056723479, time_cost=0.4808509238064289s
+
+2022-10-06 13:40:02: WassDPC(in) result: data_name=phoneme, shape=(4509, 256), k_neighbors=360, n_clusters=5 nmi=0.7742707632027074, ari=0.6838077633239567, ami=0.7739661266461954, time_cost=22.217891171574593s
+
+2022-10-06 13:40:26: WassDPC(out) result: data_name=phoneme, shape=(4509, 256), k_neighbors=360, n_clusters=5 nmi=0.6653927277191959, ari=0.5103811949338805, ami=0.6649231273053416, time_cost=23.276971268001944s
+
+2022-10-06 13:40:49: WassDPC(out_out) result: data_name=phoneme, shape=(4509, 256), k_neighbors=360, n_clusters=5 nmi=0.6865573384471426, ari=0.5639214894404363, ami=0.6861258635321092, time_cost=23.702527184039354s
+
+2022-10-06 13:40:53: WassDPC(in) result: data_name=MFCCs, shape=(7195, 22), k_neighbors=47, n_clusters=60 nmi=0.6235210138466604, ari=0.1480839393282258, ami=0.5988712924393832, time_cost=3.1180348112247884s
+
+2022-10-06 13:40:55: WassDPC(out) result: data_name=MFCCs, shape=(7195, 22), k_neighbors=47, n_clusters=60 nmi=0.621167871366507, ari=0.14595557382040275, ami=0.5964118791441725, time_cost=2.669875780120492s
+
+2022-10-06 13:40:59: WassDPC(out_out) result: data_name=MFCCs, shape=(7195, 22), k_neighbors=47, n_clusters=60 nmi=0.621167871366507, ari=0.14595557382040275, ami=0.5964118791441725, time_cost=3.6845371522940695s
+
+2022-10-06 16:45:07: WassDPC(in) result: data_name=mnist_784, shape=(70000, 784), k_neighbors=2800, n_clusters=10 nmi=0.6311083960032667, ari=0.42542767206810866, ami=0.6310001225167385, time_cost=10996.178247151896s
+
+2022-10-06 20:18:09: WassDPC(out) result: data_name=mnist_784, shape=(70000, 784), k_neighbors=2800, n_clusters=10 nmi=0.6311083960032668, ari=0.42542767206810866, ami=0.6310001225167386, time_cost=12782.118837323971s
+
+2022-10-06 23:56:44: WassDPC(out_out) result: data_name=mnist_784, shape=(70000, 784), k_neighbors=2800, n_clusters=10 nmi=0.6311083960032667, ari=0.42542767206810866, ami=0.6310001225167385, time_cost=13113.9866897529s

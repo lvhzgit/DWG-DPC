@@ -1,0 +1,1404 @@
+
+2022-11-13 00:14:57: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=9, nmi=0.0546, ari=0.0042, ami=0.0526, time_cost=383.8040s
+
+2022-11-13 00:26:27: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=18, nmi=0.0690, ari=0.0061, ami=0.0671, time_cost=690.6658s
+
+2022-11-13 00:43:28: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=27, nmi=0.1216, ari=0.0165, ami=0.1199, time_cost=1021.0106s
+
+2022-11-13 00:50:08: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=36, nmi=0.6313, ari=0.3815, ami=0.6308, time_cost=399.6476s
+
+2022-11-13 00:55:31: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=45, nmi=0.6474, ari=0.3968, ami=0.6469, time_cost=323.4967s
+
+2022-11-13 01:01:57: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=54, nmi=0.6483, ari=0.3971, ami=0.6479, time_cost=385.6559s
+
+2022-11-13 01:09:28: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=63, nmi=0.6455, ari=0.3979, ami=0.6450, time_cost=450.6498s
+
+2022-11-13 01:17:50: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=72, nmi=0.6454, ari=0.3985, ami=0.6449, time_cost=502.2035s
+
+2022-11-13 01:24:21: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=81, nmi=0.6484, ari=0.4131, ami=0.6480, time_cost=391.1762s
+
+2022-11-13 01:31:41: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=90, nmi=0.6464, ari=0.4125, ami=0.6460, time_cost=439.5830s
+
+2022-11-13 01:39:38: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=99, nmi=0.6489, ari=0.4160, ami=0.6484, time_cost=477.3792s
+
+2022-11-13 01:39:39: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=108, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.3919s
+
+2022-11-13 01:39:39: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=117, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3273s
+
+2022-11-13 01:39:39: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=126, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3021s
+
+2022-11-13 01:50:19: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=135, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=639.5757s
+
+2022-11-13 02:01:48: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=144, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=689.2719s
+
+2022-11-13 02:01:49: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=153, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.4152s
+
+2022-11-13 02:01:49: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=162, nmi=0.8130, ari=0.6864, ami=0.8128, time_cost=0.3634s
+
+2022-11-13 02:01:49: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=171, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3357s
+
+2022-11-13 02:01:50: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=180, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3333s
+
+2022-11-13 02:17:28: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=189, nmi=0.6464, ari=0.4125, ami=0.6460, time_cost=938.8878s
+
+2022-11-13 02:33:35: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=198, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=966.4739s
+
+2022-11-13 02:50:32: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=207, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=1016.8465s
+
+2022-11-13 03:08:16: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=216, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=1064.0378s
+
+2022-11-13 03:08:16: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=225, nmi=0.8300, ari=0.7351, ami=0.8298, time_cost=0.4443s
+
+2022-11-13 03:08:17: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=234, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4114s
+
+2022-11-13 03:08:17: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=243, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3743s
+
+2022-11-13 03:08:18: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=252, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.3766s
+
+2022-11-13 03:08:18: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=261, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3796s
+
+2022-11-13 03:30:24: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=270, nmi=0.6464, ari=0.4125, ami=0.6460, time_cost=1325.8683s
+
+2022-11-13 03:52:04: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=279, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=1299.6675s
+
+2022-11-13 04:15:10: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=288, nmi=0.6489, ari=0.4160, ami=0.6484, time_cost=1386.2389s
+
+2022-11-13 04:38:17: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=297, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=1386.7744s
+
+2022-11-13 05:03:04: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=306, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=1487.2633s
+
+2022-11-13 05:03:04: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=315, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.4810s
+
+2022-11-13 05:03:05: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=324, nmi=0.8131, ari=0.6867, ami=0.8129, time_cost=0.4743s
+
+2022-11-13 05:03:05: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=333, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4720s
+
+2022-11-13 05:03:06: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=342, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4250s
+
+2022-11-13 05:03:06: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=351, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4251s
+
+2022-11-13 05:03:07: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=360, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.4262s
+
+2022-11-13 05:03:07: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=369, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4318s
+
+2022-11-13 05:03:07: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=378, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4309s
+
+2022-11-13 05:34:34: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=387, nmi=0.6464, ari=0.4125, ami=0.6460, time_cost=1886.9557s
+
+2022-11-13 06:05:48: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=396, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=1873.7126s
+
+2022-11-13 06:36:36: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=405, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=1847.7210s
+
+2022-11-13 07:11:20: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=414, nmi=0.6489, ari=0.4160, ami=0.6484, time_cost=2083.9318s
+
+2022-11-13 07:45:45: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=423, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=2064.9252s
+
+2022-11-13 08:19:56: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=432, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=2050.8612s
+
+2022-11-13 08:53:50: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=441, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=2034.2039s
+
+2022-11-13 08:54:01: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=450, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=11.4399s
+
+2022-11-13 09:00:17: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=9, nmi=0.0321, ari=0.0003, ami=0.0300, time_cost=375.5373s
+
+2022-11-13 09:11:44: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=18, nmi=0.0690, ari=0.0061, ami=0.0671, time_cost=687.3101s
+
+2022-11-13 09:28:40: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=27, nmi=0.1404, ari=0.0175, ami=0.1389, time_cost=1015.9078s
+
+2022-11-13 09:35:17: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=36, nmi=0.1115, ari=0.0048, ami=0.1099, time_cost=396.9850s
+
+2022-11-13 09:40:39: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=45, nmi=0.4119, ari=0.1691, ami=0.4111, time_cost=322.1120s
+
+2022-11-13 09:47:03: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=54, nmi=0.4504, ari=0.1791, ami=0.4496, time_cost=383.8649s
+
+2022-11-13 09:54:32: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=63, nmi=0.4489, ari=0.1785, ami=0.4481, time_cost=448.8839s
+
+2022-11-13 10:02:52: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=72, nmi=0.4141, ari=0.1718, ami=0.4132, time_cost=499.9680s
+
+2022-11-13 10:09:20: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=81, nmi=0.5586, ari=0.3578, ami=0.5581, time_cost=388.3747s
+
+2022-11-13 10:16:38: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=90, nmi=0.5586, ari=0.3579, ami=0.5580, time_cost=437.8611s
+
+2022-11-13 10:24:34: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=99, nmi=0.5548, ari=0.3522, ami=0.5543, time_cost=475.4552s
+
+2022-11-13 10:24:34: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=108, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.3839s
+
+2022-11-13 10:24:34: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=117, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3086s
+
+2022-11-13 10:24:35: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=126, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3197s
+
+2022-11-13 10:35:12: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=135, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=637.5943s
+
+2022-11-13 10:46:40: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=144, nmi=0.5564, ari=0.3545, ami=0.5559, time_cost=687.1285s
+
+2022-11-13 10:46:40: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=153, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.4207s
+
+2022-11-13 10:46:40: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=162, nmi=0.8130, ari=0.6864, ami=0.8128, time_cost=0.3633s
+
+2022-11-13 10:46:41: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=171, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3389s
+
+2022-11-13 10:46:41: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=180, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3374s
+
+2022-11-13 11:02:17: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=189, nmi=0.5586, ari=0.3579, ami=0.5580, time_cost=936.0388s
+
+2022-11-13 11:18:19: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=198, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=962.2348s
+
+2022-11-13 11:35:12: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=207, nmi=0.5564, ari=0.3545, ami=0.5559, time_cost=1012.1529s
+
+2022-11-13 11:52:52: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=216, nmi=0.5563, ari=0.3546, ami=0.5557, time_cost=1060.0967s
+
+2022-11-13 11:52:52: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=225, nmi=0.8300, ari=0.7351, ami=0.8298, time_cost=0.4370s
+
+2022-11-13 11:52:53: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=234, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4137s
+
+2022-11-13 11:52:53: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=243, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3762s
+
+2022-11-13 11:52:53: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=252, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.3754s
+
+2022-11-13 11:52:54: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=261, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3766s
+
+2022-11-13 12:14:56: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=270, nmi=0.5586, ari=0.3579, ami=0.5580, time_cost=1322.5898s
+
+2022-11-13 12:36:33: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=279, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=1296.8394s
+
+2022-11-13 12:59:38: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=288, nmi=0.5548, ari=0.3522, ami=0.5543, time_cost=1384.5951s
+
+2022-11-13 13:22:42: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=297, nmi=0.5564, ari=0.3545, ami=0.5559, time_cost=1384.4602s
+
+2022-11-13 13:47:28: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=306, nmi=0.5563, ari=0.3546, ami=0.5557, time_cost=1485.6291s
+
+2022-11-13 13:47:28: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=315, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.4762s
+
+2022-11-13 13:47:29: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=324, nmi=0.8131, ari=0.6867, ami=0.8129, time_cost=0.4654s
+
+2022-11-13 13:47:29: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=333, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4717s
+
+2022-11-13 13:47:30: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=342, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4236s
+
+2022-11-13 13:47:30: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=351, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4256s
+
+2022-11-13 13:47:31: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=360, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.4268s
+
+2022-11-13 13:47:31: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=369, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4333s
+
+2022-11-13 13:47:32: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=378, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4328s
+
+2022-11-13 14:18:56: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=387, nmi=0.5586, ari=0.3579, ami=0.5580, time_cost=1884.5147s
+
+2022-11-13 14:50:12: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=396, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=1875.5180s
+
+2022-11-13 15:20:57: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=405, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=1845.6474s
+
+2022-11-13 15:55:44: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=414, nmi=0.5548, ari=0.3522, ami=0.5543, time_cost=2087.0957s
+
+2022-11-13 16:30:02: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=423, nmi=0.5564, ari=0.3545, ami=0.5559, time_cost=2057.2609s
+
+2022-11-13 17:04:07: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=432, nmi=0.5563, ari=0.3546, ami=0.5557, time_cost=2044.9890s
+
+2022-11-13 17:37:58: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=441, nmi=0.5563, ari=0.3546, ami=0.5557, time_cost=2031.5614s
+
+2022-11-13 17:38:10: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=450, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=11.4252s
+
+2022-11-13 17:44:27: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=9, nmi=0.0711, ari=0.0065, ami=0.0692, time_cost=376.8549s
+
+2022-11-13 17:55:55: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=18, nmi=0.6319, ari=0.3833, ami=0.6315, time_cost=688.3358s
+
+2022-11-13 18:12:50: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=27, nmi=0.6541, ari=0.4102, ami=0.6536, time_cost=1015.4913s
+
+2022-11-13 18:19:28: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=36, nmi=0.6615, ari=0.4211, ami=0.6610, time_cost=397.8207s
+
+2022-11-13 18:24:51: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=45, nmi=0.5850, ari=0.4557, ami=0.5846, time_cost=322.4770s
+
+2022-11-13 18:31:15: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=54, nmi=0.5899, ari=0.4630, ami=0.5894, time_cost=384.1769s
+
+2022-11-13 18:38:44: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=63, nmi=0.5706, ari=0.3765, ami=0.5700, time_cost=448.9242s
+
+2022-11-13 18:47:04: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=72, nmi=0.5904, ari=0.4685, ami=0.5899, time_cost=500.3751s
+
+2022-11-13 18:53:33: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=81, nmi=0.5421, ari=0.3259, ami=0.5416, time_cost=388.9825s
+
+2022-11-13 19:00:52: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=90, nmi=0.5419, ari=0.3263, ami=0.5413, time_cost=438.5485s
+
+2022-11-13 19:08:48: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=99, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=476.2068s
+
+2022-11-13 19:08:48: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=108, nmi=0.6422, ari=0.4803, ami=0.6418, time_cost=0.4298s
+
+2022-11-13 19:08:49: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=117, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3070s
+
+2022-11-13 19:08:49: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=126, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3033s
+
+2022-11-13 19:19:28: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=135, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=638.5151s
+
+2022-11-13 19:30:56: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=144, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=688.1242s
+
+2022-11-13 19:30:56: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=153, nmi=0.6422, ari=0.4803, ami=0.6418, time_cost=0.4485s
+
+2022-11-13 19:30:57: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=162, nmi=0.7994, ari=0.7550, ami=0.7992, time_cost=0.3809s
+
+2022-11-13 19:30:57: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=171, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3158s
+
+2022-11-13 19:30:57: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=180, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3179s
+
+2022-11-13 19:46:33: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=189, nmi=0.5419, ari=0.3263, ami=0.5413, time_cost=936.1291s
+
+2022-11-13 20:02:37: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=198, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=963.6342s
+
+2022-11-13 20:19:31: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=207, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=1013.7122s
+
+2022-11-13 20:37:14: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=216, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=1063.2919s
+
+2022-11-13 20:37:15: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=225, nmi=0.6422, ari=0.4803, ami=0.6418, time_cost=0.4774s
+
+2022-11-13 20:37:15: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=234, nmi=0.6443, ari=0.4665, ami=0.6438, time_cost=0.4480s
+
+2022-11-13 20:37:15: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=243, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3784s
+
+2022-11-13 20:37:16: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=252, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.3518s
+
+2022-11-13 20:37:16: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=261, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3778s
+
+2022-11-13 20:59:21: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=270, nmi=0.5419, ari=0.3263, ami=0.5413, time_cost=1324.4415s
+
+2022-11-13 21:21:01: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=279, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=1300.1108s
+
+2022-11-13 21:44:08: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=288, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=1386.8030s
+
+2022-11-13 22:07:14: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=297, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=1386.3363s
+
+2022-11-13 22:31:59: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=306, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=1485.5042s
+
+2022-11-13 22:32:00: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=315, nmi=0.6422, ari=0.4803, ami=0.6418, time_cost=0.5146s
+
+2022-11-13 22:32:01: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=324, nmi=0.6438, ari=0.4651, ami=0.6434, time_cost=0.5293s
+
+2022-11-13 22:32:01: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=333, nmi=0.6443, ari=0.4665, ami=0.6438, time_cost=0.4762s
+
+2022-11-13 22:32:01: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=342, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4387s
+
+2022-11-13 22:32:02: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=351, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4252s
+
+2022-11-13 22:32:02: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=360, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.4326s
+
+2022-11-13 22:32:03: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=369, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4395s
+
+2022-11-13 22:32:03: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=378, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4427s
+
+2022-11-13 23:03:26: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=387, nmi=0.5419, ari=0.3263, ami=0.5413, time_cost=1882.7931s
+
+2022-11-13 23:34:36: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=396, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=1869.5423s
+
+2022-11-14 00:05:20: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=405, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=1844.1905s
+
+2022-11-14 00:40:03: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=414, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=2082.7363s
+
+2022-11-14 01:14:16: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=423, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=2053.1631s
+
+2022-11-14 01:48:20: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=432, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=2043.9821s
+
+2022-11-14 02:22:11: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=441, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=2031.1905s
+
+2022-11-14 02:22:22: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=450, nmi=0.6410, ari=0.3977, ami=0.6405, time_cost=11.4760s
+
+2022-11-14 02:22:37: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=6, nmi=0.5608, ari=0.4370, ami=0.5604, time_cost=14.9311s
+
+2022-11-14 02:22:58: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=13, nmi=0.4363, ari=0.3682, ami=0.4357, time_cost=20.6028s
+
+2022-11-14 02:23:23: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=19, nmi=0.0406, ari=-0.0028, ami=0.0389, time_cost=24.5843s
+
+2022-11-14 02:23:53: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=26, nmi=0.1366, ari=0.0099, ami=0.1353, time_cost=30.7664s
+
+2022-11-14 02:24:22: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=33, nmi=0.0873, ari=-0.0010, ami=0.0859, time_cost=28.7299s
+
+2022-11-14 02:25:01: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=39, nmi=0.0748, ari=-0.0058, ami=0.0734, time_cost=38.6796s
+
+2022-11-14 02:25:33: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=46, nmi=0.1105, ari=-0.0037, ami=0.1092, time_cost=32.3460s
+
+2022-11-14 02:26:11: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=53, nmi=0.1143, ari=-0.0031, ami=0.1131, time_cost=38.0951s
+
+2022-11-14 02:26:55: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=59, nmi=0.1583, ari=0.0165, ami=0.1572, time_cost=43.2586s
+
+2022-11-14 02:27:32: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=66, nmi=0.1583, ari=0.0165, ami=0.1572, time_cost=37.3217s
+
+2022-11-14 02:28:13: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=73, nmi=0.1305, ari=-0.0049, ami=0.1293, time_cost=41.3751s
+
+2022-11-14 02:28:57: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=79, nmi=0.1196, ari=-0.0047, ami=0.1184, time_cost=44.1464s
+
+2022-11-14 02:29:45: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=86, nmi=0.1240, ari=-0.0049, ami=0.1227, time_cost=47.6508s
+
+2022-11-14 02:30:38: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=93, nmi=0.1240, ari=-0.0049, ami=0.1227, time_cost=53.2385s
+
+2022-11-14 02:31:25: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=99, nmi=0.2720, ari=0.0525, ami=0.2712, time_cost=47.1202s
+
+2022-11-14 02:32:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=106, nmi=0.2720, ari=0.0525, ami=0.2712, time_cost=55.7144s
+
+2022-11-14 02:33:19: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=113, nmi=0.2720, ari=0.0525, ami=0.2712, time_cost=58.0643s
+
+2022-11-14 02:34:32: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=119, nmi=0.2471, ari=0.0328, ami=0.2462, time_cost=72.6237s
+
+2022-11-14 02:35:54: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=126, nmi=0.2391, ari=0.0276, ami=0.2382, time_cost=82.1692s
+
+2022-11-14 02:37:05: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=133, nmi=0.2391, ari=0.0276, ami=0.2382, time_cost=71.0318s
+
+2022-11-14 02:38:23: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=140, nmi=0.2155, ari=0.0497, ami=0.2145, time_cost=78.1872s
+
+2022-11-14 02:38:47: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=146, nmi=0.4463, ari=0.2748, ami=0.4457, time_cost=23.5376s
+
+2022-11-14 02:39:10: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=153, nmi=0.4471, ari=0.2761, ami=0.4465, time_cost=22.8675s
+
+2022-11-14 02:39:37: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=159, nmi=0.6620, ari=0.4799, ami=0.6616, time_cost=27.1547s
+
+2022-11-14 02:40:03: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=166, nmi=0.6620, ari=0.4799, ami=0.6616, time_cost=26.1706s
+
+2022-11-14 02:40:03: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=173, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1273s
+
+2022-11-14 02:40:03: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=180, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1095s
+
+2022-11-14 02:40:03: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=186, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1231s
+
+2022-11-14 02:40:04: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=193, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1242s
+
+2022-11-14 02:40:04: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=199, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1246s
+
+2022-11-14 02:40:04: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=206, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1075s
+
+2022-11-14 02:40:04: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=213, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1082s
+
+2022-11-14 02:40:04: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=220, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1468s
+
+2022-11-14 02:40:04: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=226, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1369s
+
+2022-11-14 02:40:04: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=233, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1267s
+
+2022-11-14 02:40:04: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=239, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1128s
+
+2022-11-14 02:40:05: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=246, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1297s
+
+2022-11-14 02:40:05: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=253, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1328s
+
+2022-11-14 02:40:05: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=260, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1414s
+
+2022-11-14 02:40:05: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=266, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1176s
+
+2022-11-14 02:40:05: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=273, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1319s
+
+2022-11-14 02:40:05: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=280, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1172s
+
+2022-11-14 02:40:05: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=286, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1184s
+
+2022-11-14 02:40:06: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=293, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1189s
+
+2022-11-14 02:40:06: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=300, nmi=0.9492, ari=0.9655, ami=0.9492, time_cost=0.1182s
+
+2022-11-14 02:40:06: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=306, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1151s
+
+2022-11-14 02:40:06: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=313, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1334s
+
+2022-11-14 02:40:06: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=319, nmi=0.9321, ari=0.9511, ami=0.9320, time_cost=0.1304s
+
+2022-11-14 02:40:06: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=326, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1156s
+
+2022-11-14 02:40:06: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=333, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1227s
+
+2022-11-14 02:40:21: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=6, nmi=0.6918, ari=0.5358, ami=0.6915, time_cost=14.6218s
+
+2022-11-14 02:40:41: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=13, nmi=0.3826, ari=0.2619, ami=0.3820, time_cost=20.4618s
+
+2022-11-14 02:41:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=19, nmi=0.7095, ari=0.5982, ami=0.7092, time_cost=24.5114s
+
+2022-11-14 02:41:37: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=26, nmi=0.5144, ari=0.4437, ami=0.5139, time_cost=30.6867s
+
+2022-11-14 02:42:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=33, nmi=0.3423, ari=0.2133, ami=0.3416, time_cost=28.6606s
+
+2022-11-14 02:42:44: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=39, nmi=0.3112, ari=0.1731, ami=0.3105, time_cost=38.6849s
+
+2022-11-14 02:43:16: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=46, nmi=0.6775, ari=0.5084, ami=0.6772, time_cost=32.3165s
+
+2022-11-14 02:43:54: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=53, nmi=0.6775, ari=0.5084, ami=0.6772, time_cost=38.0704s
+
+2022-11-14 02:44:38: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=59, nmi=0.6899, ari=0.5322, ami=0.6896, time_cost=43.2468s
+
+2022-11-14 02:45:15: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=66, nmi=0.7115, ari=0.5748, ami=0.7112, time_cost=37.3056s
+
+2022-11-14 02:45:56: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=73, nmi=0.6268, ari=0.5716, ami=0.6264, time_cost=41.3574s
+
+2022-11-14 02:46:40: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=79, nmi=0.3277, ari=0.1969, ami=0.3270, time_cost=44.0878s
+
+2022-11-14 02:47:28: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=86, nmi=0.4220, ari=0.2756, ami=0.4214, time_cost=47.6387s
+
+2022-11-14 02:48:21: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=93, nmi=0.3543, ari=0.1588, ami=0.3536, time_cost=53.2122s
+
+2022-11-14 02:49:08: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=99, nmi=0.1765, ari=0.0028, ami=0.1754, time_cost=47.1072s
+
+2022-11-14 02:50:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=106, nmi=0.1765, ari=0.0028, ami=0.1754, time_cost=55.7102s
+
+2022-11-14 02:51:02: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=113, nmi=0.1765, ari=0.0028, ami=0.1754, time_cost=58.0365s
+
+2022-11-14 02:52:15: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=119, nmi=0.3965, ari=0.2376, ami=0.3959, time_cost=72.6154s
+
+2022-11-14 02:53:37: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=126, nmi=0.3965, ari=0.2376, ami=0.3959, time_cost=82.0758s
+
+2022-11-14 02:54:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=133, nmi=0.3965, ari=0.2376, ami=0.3959, time_cost=71.0137s
+
+2022-11-14 02:56:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=140, nmi=0.3965, ari=0.2376, ami=0.3959, time_cost=78.2712s
+
+2022-11-14 02:56:30: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=146, nmi=0.2500, ari=0.0318, ami=0.2491, time_cost=23.5631s
+
+2022-11-14 02:56:53: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=153, nmi=0.2500, ari=0.0318, ami=0.2491, time_cost=22.9109s
+
+2022-11-14 02:57:20: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=159, nmi=0.6620, ari=0.4799, ami=0.6616, time_cost=27.0948s
+
+2022-11-14 02:57:46: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=166, nmi=0.6620, ari=0.4799, ami=0.6616, time_cost=26.1711s
+
+2022-11-14 02:57:46: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=173, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1418s
+
+2022-11-14 02:57:46: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=180, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1226s
+
+2022-11-14 02:57:46: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=186, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1080s
+
+2022-11-14 02:57:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=193, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1249s
+
+2022-11-14 02:57:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=199, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1220s
+
+2022-11-14 02:57:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=206, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1096s
+
+2022-11-14 02:57:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=213, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1106s
+
+2022-11-14 02:57:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=220, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1136s
+
+2022-11-14 02:57:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=226, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1110s
+
+2022-11-14 02:57:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=233, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1127s
+
+2022-11-14 02:57:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=239, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1116s
+
+2022-11-14 02:57:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=246, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1128s
+
+2022-11-14 02:57:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=253, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1137s
+
+2022-11-14 02:57:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=260, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1114s
+
+2022-11-14 02:57:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=266, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1131s
+
+2022-11-14 02:57:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=273, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1299s
+
+2022-11-14 02:57:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=280, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1293s
+
+2022-11-14 02:57:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=286, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1188s
+
+2022-11-14 02:57:48: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=293, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1155s
+
+2022-11-14 02:57:49: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=300, nmi=0.9492, ari=0.9655, ami=0.9492, time_cost=0.1154s
+
+2022-11-14 02:57:49: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=306, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1144s
+
+2022-11-14 02:57:49: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=313, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1157s
+
+2022-11-14 02:57:49: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=319, nmi=0.9321, ari=0.9511, ami=0.9320, time_cost=0.1162s
+
+2022-11-14 02:57:49: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=326, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1349s
+
+2022-11-14 02:57:49: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=333, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1480s
+
+2022-11-14 02:58:06: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=6, nmi=0.7219, ari=0.5955, ami=0.7217, time_cost=16.3657s
+
+2022-11-14 02:58:27: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=13, nmi=0.4261, ari=0.3392, ami=0.4256, time_cost=21.1762s
+
+2022-11-14 02:58:52: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=19, nmi=0.7293, ari=0.6101, ami=0.7290, time_cost=24.8896s
+
+2022-11-14 02:59:23: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=26, nmi=0.4750, ari=0.3517, ami=0.4745, time_cost=30.9919s
+
+2022-11-14 02:59:52: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=33, nmi=0.3781, ari=0.1982, ami=0.3775, time_cost=28.8725s
+
+2022-11-14 03:00:30: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=39, nmi=0.3380, ari=0.2897, ami=0.3374, time_cost=38.8659s
+
+2022-11-14 03:01:03: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=46, nmi=0.3663, ari=0.1525, ami=0.3657, time_cost=32.4937s
+
+2022-11-14 03:01:41: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=53, nmi=0.3663, ari=0.1525, ami=0.3657, time_cost=38.2536s
+
+2022-11-14 03:02:25: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=59, nmi=0.4087, ari=0.2135, ami=0.4081, time_cost=43.4034s
+
+2022-11-14 03:03:02: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=66, nmi=0.4087, ari=0.2135, ami=0.4081, time_cost=37.4515s
+
+2022-11-14 03:03:44: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=73, nmi=0.3117, ari=0.2441, ami=0.3110, time_cost=41.5346s
+
+2022-11-14 03:04:28: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=79, nmi=0.3117, ari=0.2441, ami=0.3110, time_cost=44.2322s
+
+2022-11-14 03:05:16: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=86, nmi=0.3181, ari=0.2478, ami=0.3174, time_cost=47.8044s
+
+2022-11-14 03:06:09: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=93, nmi=0.3195, ari=0.1277, ami=0.3187, time_cost=53.3391s
+
+2022-11-14 03:06:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=99, nmi=0.4534, ari=0.2656, ami=0.4529, time_cost=47.2781s
+
+2022-11-14 03:07:52: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=106, nmi=0.4534, ari=0.2656, ami=0.4529, time_cost=55.7809s
+
+2022-11-14 03:08:50: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=113, nmi=0.4534, ari=0.2656, ami=0.4529, time_cost=58.1290s
+
+2022-11-14 03:10:03: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=119, nmi=0.3670, ari=0.1541, ami=0.3663, time_cost=72.7407s
+
+2022-11-14 03:11:25: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=126, nmi=0.3618, ari=0.1504, ami=0.3611, time_cost=82.2887s
+
+2022-11-14 03:12:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=133, nmi=0.3618, ari=0.1504, ami=0.3611, time_cost=71.0909s
+
+2022-11-14 03:13:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=140, nmi=0.2931, ari=0.1120, ami=0.2923, time_cost=78.2214s
+
+2022-11-14 03:14:18: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=146, nmi=0.2500, ari=0.0318, ami=0.2491, time_cost=23.5829s
+
+2022-11-14 03:14:41: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=153, nmi=0.2500, ari=0.0318, ami=0.2491, time_cost=22.9266s
+
+2022-11-14 03:15:08: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=159, nmi=0.6677, ari=0.4986, ami=0.6674, time_cost=27.1121s
+
+2022-11-14 03:15:34: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=166, nmi=0.6677, ari=0.4986, ami=0.6674, time_cost=26.1377s
+
+2022-11-14 03:15:35: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=173, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1270s
+
+2022-11-14 03:15:35: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=180, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1099s
+
+2022-11-14 03:15:35: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=186, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1097s
+
+2022-11-14 03:15:35: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=193, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1094s
+
+2022-11-14 03:15:35: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=199, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1306s
+
+2022-11-14 03:15:35: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=206, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1244s
+
+2022-11-14 03:15:35: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=213, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1108s
+
+2022-11-14 03:15:35: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=220, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1096s
+
+2022-11-14 03:15:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=226, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1107s
+
+2022-11-14 03:15:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=233, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1112s
+
+2022-11-14 03:15:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=239, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1115s
+
+2022-11-14 03:15:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=246, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1116s
+
+2022-11-14 03:15:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=253, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1263s
+
+2022-11-14 03:15:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=260, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1326s
+
+2022-11-14 03:15:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=266, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1244s
+
+2022-11-14 03:15:36: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=273, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1134s
+
+2022-11-14 03:15:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=280, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1126s
+
+2022-11-14 03:15:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=286, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1130s
+
+2022-11-14 03:15:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=293, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1148s
+
+2022-11-14 03:15:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=300, nmi=0.9492, ari=0.9655, ami=0.9492, time_cost=0.1137s
+
+2022-11-14 03:15:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=306, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1316s
+
+2022-11-14 03:15:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=313, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1293s
+
+2022-11-14 03:15:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=319, nmi=0.9321, ari=0.9511, ami=0.9320, time_cost=0.1161s
+
+2022-11-14 03:15:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=326, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1154s
+
+2022-11-14 03:15:38: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=333, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1196s
+
+2022-11-18 02:48:04: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=9, nmi=0.0546, ari=0.0042, ami=0.0526, time_cost=388.0637s
+
+2022-11-18 02:59:38: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=18, nmi=0.0690, ari=0.0061, ami=0.0671, time_cost=693.8696s
+
+2022-11-18 03:16:45: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=27, nmi=0.1216, ari=0.0165, ami=0.1199, time_cost=1026.8703s
+
+2022-11-18 03:23:27: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=36, nmi=0.6313, ari=0.3815, ami=0.6308, time_cost=401.8373s
+
+2022-11-18 03:28:51: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=45, nmi=0.6474, ari=0.3968, ami=0.6469, time_cost=324.1340s
+
+2022-11-18 03:35:16: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=54, nmi=0.6483, ari=0.3971, ami=0.6479, time_cost=385.5860s
+
+2022-11-18 03:42:47: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=63, nmi=0.6455, ari=0.3979, ami=0.6450, time_cost=450.7431s
+
+2022-11-18 03:51:08: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=72, nmi=0.6454, ari=0.3985, ami=0.6449, time_cost=500.6423s
+
+2022-11-18 03:57:39: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=81, nmi=0.6484, ari=0.4131, ami=0.6480, time_cost=391.0479s
+
+2022-11-18 04:05:01: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=90, nmi=0.6464, ari=0.4125, ami=0.6460, time_cost=442.2629s
+
+2022-11-18 04:13:01: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=99, nmi=0.6489, ari=0.4160, ami=0.6484, time_cost=480.1909s
+
+2022-11-18 04:13:02: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=108, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.3798s
+
+2022-11-18 04:13:02: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=117, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3042s
+
+2022-11-18 04:13:02: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=126, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.2991s
+
+2022-11-18 04:23:47: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=135, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=644.2154s
+
+2022-11-18 04:35:20: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=144, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=693.0484s
+
+2022-11-18 04:35:20: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=153, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.4047s
+
+2022-11-18 04:35:20: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=162, nmi=0.8130, ari=0.6864, ami=0.8128, time_cost=0.3586s
+
+2022-11-18 04:35:21: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=171, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3327s
+
+2022-11-18 04:35:21: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=180, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3323s
+
+2022-11-18 04:51:04: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=189, nmi=0.6464, ari=0.4125, ami=0.6460, time_cost=942.9760s
+
+2022-11-18 05:07:14: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=198, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=969.4102s
+
+2022-11-18 05:24:13: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=207, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=1019.4567s
+
+2022-11-18 05:42:02: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=216, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=1069.2565s
+
+2022-11-18 05:42:03: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=225, nmi=0.8300, ari=0.7351, ami=0.8298, time_cost=0.4372s
+
+2022-11-18 05:42:03: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=234, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4020s
+
+2022-11-18 05:42:04: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=243, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3672s
+
+2022-11-18 05:42:04: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=252, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.3736s
+
+2022-11-18 05:42:04: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=261, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3786s
+
+2022-11-18 06:04:19: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=270, nmi=0.6464, ari=0.4125, ami=0.6460, time_cost=1334.6270s
+
+2022-11-18 06:26:07: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=279, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=1308.5227s
+
+2022-11-18 06:49:24: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=288, nmi=0.6489, ari=0.4160, ami=0.6484, time_cost=1396.0203s
+
+2022-11-18 07:12:39: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=297, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=1395.0887s
+
+2022-11-18 07:37:25: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=306, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=1486.6039s
+
+2022-11-18 07:37:26: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=315, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.4689s
+
+2022-11-18 07:37:26: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=324, nmi=0.8131, ari=0.6867, ami=0.8129, time_cost=0.4607s
+
+2022-11-18 07:37:27: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=333, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4681s
+
+2022-11-18 07:37:27: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=342, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4233s
+
+2022-11-18 07:37:28: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=351, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4351s
+
+2022-11-18 07:37:28: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=360, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.4227s
+
+2022-11-18 07:37:28: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=369, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4341s
+
+2022-11-18 07:37:29: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=378, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4238s
+
+2022-11-18 08:08:59: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=387, nmi=0.6464, ari=0.4125, ami=0.6460, time_cost=1890.0829s
+
+2022-11-18 08:40:16: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=396, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=1877.4632s
+
+2022-11-18 09:11:08: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=405, nmi=0.6486, ari=0.4160, ami=0.6482, time_cost=1851.3982s
+
+2022-11-18 09:45:57: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=414, nmi=0.6489, ari=0.4160, ami=0.6484, time_cost=2089.2703s
+
+2022-11-18 10:20:22: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=423, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=2065.2071s
+
+2022-11-18 10:54:34: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=432, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=2051.6234s
+
+2022-11-18 11:28:38: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=441, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=2044.2648s
+
+2022-11-18 11:28:50: phoneme datasets process:  alg_name=WassDPC(in), shape=(4509, 256), n_clusters=5, k_neighbors=450, nmi=0.6480, ari=0.4146, ami=0.6476, time_cost=11.4931s
+
+2022-11-18 11:35:07: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=9, nmi=0.0321, ari=0.0003, ami=0.0300, time_cost=377.1057s
+
+2022-11-18 11:46:38: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=18, nmi=0.0690, ari=0.0061, ami=0.0671, time_cost=690.9784s
+
+2022-11-18 12:03:39: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=27, nmi=0.1404, ari=0.0175, ami=0.1389, time_cost=1021.5703s
+
+2022-11-18 12:10:19: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=36, nmi=0.1115, ari=0.0048, ami=0.1099, time_cost=399.9990s
+
+2022-11-18 12:15:43: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=45, nmi=0.4119, ari=0.1691, ami=0.4111, time_cost=323.7501s
+
+2022-11-18 12:22:09: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=54, nmi=0.4504, ari=0.1791, ami=0.4496, time_cost=385.7731s
+
+2022-11-18 12:29:40: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=63, nmi=0.4489, ari=0.1785, ami=0.4481, time_cost=450.7803s
+
+2022-11-18 12:38:00: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=72, nmi=0.4141, ari=0.1718, ami=0.4132, time_cost=500.3767s
+
+2022-11-18 12:44:31: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=81, nmi=0.5586, ari=0.3578, ami=0.5581, time_cost=390.2658s
+
+2022-11-18 12:51:50: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=90, nmi=0.5586, ari=0.3579, ami=0.5580, time_cost=439.9236s
+
+2022-11-18 12:59:48: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=99, nmi=0.5548, ari=0.3522, ami=0.5543, time_cost=477.7944s
+
+2022-11-18 12:59:49: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=108, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.3729s
+
+2022-11-18 12:59:49: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=117, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.2890s
+
+2022-11-18 12:59:49: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=126, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3001s
+
+2022-11-18 13:10:30: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=135, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=640.5220s
+
+2022-11-18 13:22:00: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=144, nmi=0.5564, ari=0.3545, ami=0.5559, time_cost=690.3739s
+
+2022-11-18 13:22:01: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=153, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.4029s
+
+2022-11-18 13:22:01: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=162, nmi=0.8130, ari=0.6864, ami=0.8128, time_cost=0.3607s
+
+2022-11-18 13:22:01: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=171, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3349s
+
+2022-11-18 13:22:02: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=180, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3359s
+
+2022-11-18 13:37:42: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=189, nmi=0.5586, ari=0.3579, ami=0.5580, time_cost=940.4935s
+
+2022-11-18 13:53:49: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=198, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=966.7105s
+
+2022-11-18 14:10:46: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=207, nmi=0.5564, ari=0.3545, ami=0.5559, time_cost=1016.8239s
+
+2022-11-18 14:28:32: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=216, nmi=0.5563, ari=0.3546, ami=0.5557, time_cost=1066.5964s
+
+2022-11-18 14:28:33: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=225, nmi=0.8300, ari=0.7351, ami=0.8298, time_cost=0.4379s
+
+2022-11-18 14:28:33: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=234, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4104s
+
+2022-11-18 14:28:34: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=243, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3803s
+
+2022-11-18 14:28:34: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=252, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.3711s
+
+2022-11-18 14:28:34: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=261, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3794s
+
+2022-11-18 14:50:43: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=270, nmi=0.5586, ari=0.3579, ami=0.5580, time_cost=1328.8331s
+
+2022-11-18 15:12:28: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=279, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=1304.4491s
+
+2022-11-18 15:35:39: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=288, nmi=0.5548, ari=0.3522, ami=0.5543, time_cost=1391.2820s
+
+2022-11-18 15:58:50: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=297, nmi=0.5564, ari=0.3545, ami=0.5559, time_cost=1390.7529s
+
+2022-11-18 16:23:42: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=306, nmi=0.5563, ari=0.3546, ami=0.5557, time_cost=1492.6353s
+
+2022-11-18 16:23:43: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=315, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=0.4704s
+
+2022-11-18 16:23:43: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=324, nmi=0.8131, ari=0.6867, ami=0.8129, time_cost=0.4530s
+
+2022-11-18 16:23:44: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=333, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4647s
+
+2022-11-18 16:23:44: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=342, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4222s
+
+2022-11-18 16:23:45: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=351, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4233s
+
+2022-11-18 16:23:45: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=360, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.4332s
+
+2022-11-18 16:23:46: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=369, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4315s
+
+2022-11-18 16:23:46: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=378, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4458s
+
+2022-11-18 16:55:17: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=387, nmi=0.5586, ari=0.3579, ami=0.5580, time_cost=1890.9740s
+
+2022-11-18 17:26:38: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=396, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=1880.5959s
+
+2022-11-18 17:57:32: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=405, nmi=0.5543, ari=0.3516, ami=0.5538, time_cost=1854.1408s
+
+2022-11-18 18:32:24: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=414, nmi=0.5548, ari=0.3522, ami=0.5543, time_cost=2092.4295s
+
+2022-11-18 19:06:52: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=423, nmi=0.5564, ari=0.3545, ami=0.5559, time_cost=2067.7330s
+
+2022-11-18 19:41:06: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=432, nmi=0.5563, ari=0.3546, ami=0.5557, time_cost=2053.5451s
+
+2022-11-18 20:15:06: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=441, nmi=0.5563, ari=0.3546, ami=0.5557, time_cost=2040.6640s
+
+2022-11-18 20:15:18: phoneme datasets process:  alg_name=WassDPC(out), shape=(4509, 256), n_clusters=5, k_neighbors=450, nmi=0.8296, ari=0.7346, ami=0.8294, time_cost=11.4612s
+
+2022-11-18 20:21:36: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=9, nmi=0.0711, ari=0.0065, ami=0.0692, time_cost=378.7467s
+
+2022-11-18 20:33:08: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=18, nmi=0.6319, ari=0.3833, ami=0.6315, time_cost=691.6918s
+
+2022-11-18 20:50:10: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=27, nmi=0.6541, ari=0.4102, ami=0.6536, time_cost=1022.2310s
+
+2022-11-18 20:56:50: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=36, nmi=0.6615, ari=0.4211, ami=0.6610, time_cost=400.0667s
+
+2022-11-18 21:02:15: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=45, nmi=0.5850, ari=0.4557, ami=0.5846, time_cost=324.2085s
+
+2022-11-18 21:08:41: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=54, nmi=0.5899, ari=0.4630, ami=0.5894, time_cost=385.9167s
+
+2022-11-18 21:16:12: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=63, nmi=0.5706, ari=0.3765, ami=0.5700, time_cost=451.1277s
+
+2022-11-18 21:24:34: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=72, nmi=0.5904, ari=0.4685, ami=0.5899, time_cost=502.6188s
+
+2022-11-18 21:31:05: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=81, nmi=0.5421, ari=0.3259, ami=0.5416, time_cost=390.4490s
+
+2022-11-18 21:38:25: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=90, nmi=0.5419, ari=0.3263, ami=0.5413, time_cost=440.1684s
+
+2022-11-18 21:46:23: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=99, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=477.9989s
+
+2022-11-18 21:46:23: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=108, nmi=0.6422, ari=0.4803, ami=0.6418, time_cost=0.4138s
+
+2022-11-18 21:46:24: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=117, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3046s
+
+2022-11-18 21:46:24: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=126, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3139s
+
+2022-11-18 21:57:04: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=135, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=639.3832s
+
+2022-11-18 22:08:34: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=144, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=690.6266s
+
+2022-11-18 22:08:35: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=153, nmi=0.6422, ari=0.4803, ami=0.6418, time_cost=0.4508s
+
+2022-11-18 22:08:35: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=162, nmi=0.7994, ari=0.7550, ami=0.7992, time_cost=0.3925s
+
+2022-11-18 22:08:35: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=171, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3437s
+
+2022-11-18 22:08:36: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=180, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3358s
+
+2022-11-18 22:24:13: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=189, nmi=0.5419, ari=0.3263, ami=0.5413, time_cost=937.6359s
+
+2022-11-18 22:40:20: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=198, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=967.0383s
+
+2022-11-18 22:57:18: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=207, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=1017.1774s
+
+2022-11-18 23:15:01: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=216, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=1063.5908s
+
+2022-11-18 23:15:02: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=225, nmi=0.6422, ari=0.4803, ami=0.6418, time_cost=0.4784s
+
+2022-11-18 23:15:02: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=234, nmi=0.6443, ari=0.4665, ami=0.6438, time_cost=0.4377s
+
+2022-11-18 23:15:03: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=243, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.3752s
+
+2022-11-18 23:15:03: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=252, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.3719s
+
+2022-11-18 23:15:03: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=261, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.3753s
+
+2022-11-18 23:37:10: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=270, nmi=0.5419, ari=0.3263, ami=0.5413, time_cost=1326.8033s
+
+2022-11-18 23:58:55: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=279, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=1304.5831s
+
+2022-11-19 00:22:06: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=288, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=1391.4782s
+
+2022-11-19 00:45:17: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=297, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=1391.2195s
+
+2022-11-19 01:10:11: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=306, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=1493.0665s
+
+2022-11-19 01:10:11: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=315, nmi=0.6422, ari=0.4803, ami=0.6418, time_cost=0.5095s
+
+2022-11-19 01:10:12: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=324, nmi=0.6438, ari=0.4651, ami=0.6434, time_cost=0.4957s
+
+2022-11-19 01:10:12: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=333, nmi=0.6443, ari=0.4665, ami=0.6438, time_cost=0.5042s
+
+2022-11-19 01:10:13: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=342, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4265s
+
+2022-11-19 01:10:13: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=351, nmi=0.8130, ari=0.6863, ami=0.8127, time_cost=0.4228s
+
+2022-11-19 01:10:13: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=360, nmi=0.8127, ari=0.6856, ami=0.8125, time_cost=0.4278s
+
+2022-11-19 01:10:14: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=369, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4287s
+
+2022-11-19 01:10:14: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=378, nmi=0.8126, ari=0.6852, ami=0.8124, time_cost=0.4301s
+
+2022-11-19 01:41:42: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=387, nmi=0.5419, ari=0.3263, ami=0.5413, time_cost=1887.5900s
+
+2022-11-19 02:13:03: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=396, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=1880.9860s
+
+2022-11-19 02:43:57: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=405, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=1854.4511s
+
+2022-11-19 03:18:50: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=414, nmi=0.5439, ari=0.3276, ami=0.5433, time_cost=2092.9555s
+
+2022-11-19 03:53:10: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=423, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=2060.0685s
+
+2022-11-19 04:27:24: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=432, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=2053.7790s
+
+2022-11-19 05:01:25: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=441, nmi=0.5431, ari=0.3270, ami=0.5425, time_cost=2040.9487s
+
+2022-11-19 05:01:37: phoneme datasets process:  alg_name=WassDPC(out_out), shape=(4509, 256), n_clusters=5, k_neighbors=450, nmi=0.6410, ari=0.3977, ami=0.6405, time_cost=11.5174s
+
+2022-11-19 05:01:52: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=6, nmi=0.5608, ari=0.4370, ami=0.5604, time_cost=15.0567s
+
+2022-11-19 05:02:12: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=13, nmi=0.4363, ari=0.3682, ami=0.4357, time_cost=20.5882s
+
+2022-11-19 05:02:37: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=19, nmi=0.0406, ari=-0.0028, ami=0.0389, time_cost=24.6108s
+
+2022-11-19 05:03:08: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=26, nmi=0.1366, ari=0.0099, ami=0.1353, time_cost=30.7435s
+
+2022-11-19 05:03:37: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=33, nmi=0.0873, ari=-0.0010, ami=0.0859, time_cost=28.7167s
+
+2022-11-19 05:04:15: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=39, nmi=0.0748, ari=-0.0058, ami=0.0734, time_cost=38.7092s
+
+2022-11-19 05:04:48: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=46, nmi=0.1105, ari=-0.0037, ami=0.1092, time_cost=32.3787s
+
+2022-11-19 05:05:26: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=53, nmi=0.1143, ari=-0.0031, ami=0.1131, time_cost=38.1873s
+
+2022-11-19 05:06:09: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=59, nmi=0.1583, ari=0.0165, ami=0.1572, time_cost=43.3729s
+
+2022-11-19 05:06:47: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=66, nmi=0.1583, ari=0.0165, ami=0.1572, time_cost=37.3927s
+
+2022-11-19 05:07:28: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=73, nmi=0.1305, ari=-0.0049, ami=0.1293, time_cost=41.4944s
+
+2022-11-19 05:08:12: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=79, nmi=0.1196, ari=-0.0047, ami=0.1184, time_cost=44.1588s
+
+2022-11-19 05:09:00: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=86, nmi=0.1240, ari=-0.0049, ami=0.1227, time_cost=47.7374s
+
+2022-11-19 05:09:53: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=93, nmi=0.1240, ari=-0.0049, ami=0.1227, time_cost=53.2869s
+
+2022-11-19 05:10:40: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=99, nmi=0.2720, ari=0.0525, ami=0.2712, time_cost=47.1313s
+
+2022-11-19 05:11:36: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=106, nmi=0.2720, ari=0.0525, ami=0.2712, time_cost=55.7448s
+
+2022-11-19 05:12:34: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=113, nmi=0.2720, ari=0.0525, ami=0.2712, time_cost=58.1237s
+
+2022-11-19 05:13:47: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=119, nmi=0.2471, ari=0.0328, ami=0.2462, time_cost=72.7752s
+
+2022-11-19 05:15:10: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=126, nmi=0.2391, ari=0.0276, ami=0.2382, time_cost=82.3653s
+
+2022-11-19 05:16:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=133, nmi=0.2391, ari=0.0276, ami=0.2382, time_cost=71.1320s
+
+2022-11-19 05:17:39: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=140, nmi=0.2155, ari=0.0497, ami=0.2145, time_cost=78.2692s
+
+2022-11-19 05:18:03: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=146, nmi=0.4463, ari=0.2748, ami=0.4457, time_cost=23.6257s
+
+2022-11-19 05:18:26: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=153, nmi=0.4471, ari=0.2761, ami=0.4465, time_cost=22.9447s
+
+2022-11-19 05:18:53: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=159, nmi=0.6620, ari=0.4799, ami=0.6616, time_cost=27.1771s
+
+2022-11-19 05:19:19: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=166, nmi=0.6620, ari=0.4799, ami=0.6616, time_cost=26.1877s
+
+2022-11-19 05:19:19: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=173, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1239s
+
+2022-11-19 05:19:19: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=180, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1073s
+
+2022-11-19 05:19:19: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=186, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1230s
+
+2022-11-19 05:19:19: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=193, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1211s
+
+2022-11-19 05:19:20: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=199, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1216s
+
+2022-11-19 05:19:20: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=206, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1217s
+
+2022-11-19 05:19:20: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=213, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1079s
+
+2022-11-19 05:19:20: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=220, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1074s
+
+2022-11-19 05:19:20: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=226, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1080s
+
+2022-11-19 05:19:20: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=233, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1093s
+
+2022-11-19 05:19:20: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=239, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1277s
+
+2022-11-19 05:19:20: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=246, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1313s
+
+2022-11-19 05:19:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=253, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1370s
+
+2022-11-19 05:19:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=260, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1223s
+
+2022-11-19 05:19:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=266, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1103s
+
+2022-11-19 05:19:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=273, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1115s
+
+2022-11-19 05:19:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=280, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1116s
+
+2022-11-19 05:19:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=286, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1131s
+
+2022-11-19 05:19:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=293, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1306s
+
+2022-11-19 05:19:21: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=300, nmi=0.9492, ari=0.9655, ami=0.9492, time_cost=0.1312s
+
+2022-11-19 05:19:22: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=306, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1225s
+
+2022-11-19 05:19:22: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=313, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1148s
+
+2022-11-19 05:19:22: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=319, nmi=0.9321, ari=0.9511, ami=0.9320, time_cost=0.1154s
+
+2022-11-19 05:19:22: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=326, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1143s
+
+2022-11-19 05:19:22: banana-ball datasets process:  alg_name=WassDPC(in), shape=(2000, 2), n_clusters=3, k_neighbors=333, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1164s
+
+2022-11-19 05:19:37: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=6, nmi=0.6918, ari=0.5358, ami=0.6915, time_cost=14.5739s
+
+2022-11-19 05:19:57: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=13, nmi=0.3826, ari=0.2619, ami=0.3820, time_cost=20.4670s
+
+2022-11-19 05:20:22: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=19, nmi=0.7095, ari=0.5982, ami=0.7092, time_cost=24.5184s
+
+2022-11-19 05:20:52: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=26, nmi=0.5144, ari=0.4437, ami=0.5139, time_cost=30.7024s
+
+2022-11-19 05:21:21: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=33, nmi=0.3423, ari=0.2133, ami=0.3416, time_cost=28.7148s
+
+2022-11-19 05:22:00: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=39, nmi=0.3112, ari=0.1731, ami=0.3105, time_cost=38.7377s
+
+2022-11-19 05:22:32: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=46, nmi=0.6775, ari=0.5084, ami=0.6772, time_cost=32.3658s
+
+2022-11-19 05:23:10: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=53, nmi=0.6775, ari=0.5084, ami=0.6772, time_cost=38.1775s
+
+2022-11-19 05:23:54: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=59, nmi=0.6899, ari=0.5322, ami=0.6896, time_cost=43.3020s
+
+2022-11-19 05:24:31: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=66, nmi=0.7115, ari=0.5748, ami=0.7112, time_cost=37.3733s
+
+2022-11-19 05:25:13: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=73, nmi=0.6268, ari=0.5716, ami=0.6264, time_cost=41.4008s
+
+2022-11-19 05:25:57: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=79, nmi=0.3277, ari=0.1969, ami=0.3270, time_cost=44.1786s
+
+2022-11-19 05:26:44: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=86, nmi=0.4220, ari=0.2756, ami=0.4214, time_cost=47.6864s
+
+2022-11-19 05:27:38: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=93, nmi=0.3543, ari=0.1588, ami=0.3536, time_cost=53.3000s
+
+2022-11-19 05:28:25: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=99, nmi=0.1765, ari=0.0028, ami=0.1754, time_cost=47.1719s
+
+2022-11-19 05:29:21: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=106, nmi=0.1765, ari=0.0028, ami=0.1754, time_cost=55.7994s
+
+2022-11-19 05:30:19: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=113, nmi=0.1765, ari=0.0028, ami=0.1754, time_cost=58.1428s
+
+2022-11-19 05:31:32: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=119, nmi=0.3965, ari=0.2376, ami=0.3959, time_cost=72.7964s
+
+2022-11-19 05:32:54: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=126, nmi=0.3965, ari=0.2376, ami=0.3959, time_cost=82.2787s
+
+2022-11-19 05:34:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=133, nmi=0.3965, ari=0.2376, ami=0.3959, time_cost=71.1143s
+
+2022-11-19 05:35:24: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=140, nmi=0.3965, ari=0.2376, ami=0.3959, time_cost=78.4809s
+
+2022-11-19 05:35:47: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=146, nmi=0.2500, ari=0.0318, ami=0.2491, time_cost=23.6990s
+
+2022-11-19 05:36:10: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=153, nmi=0.2500, ari=0.0318, ami=0.2491, time_cost=22.9281s
+
+2022-11-19 05:36:37: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=159, nmi=0.6620, ari=0.4799, ami=0.6616, time_cost=27.1705s
+
+2022-11-19 05:37:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=166, nmi=0.6620, ari=0.4799, ami=0.6616, time_cost=26.1850s
+
+2022-11-19 05:37:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=173, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1241s
+
+2022-11-19 05:37:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=180, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1071s
+
+2022-11-19 05:37:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=186, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1063s
+
+2022-11-19 05:37:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=193, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1079s
+
+2022-11-19 05:37:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=199, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1085s
+
+2022-11-19 05:37:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=206, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1211s
+
+2022-11-19 05:37:04: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=213, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1375s
+
+2022-11-19 05:37:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=220, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1202s
+
+2022-11-19 05:37:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=226, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1087s
+
+2022-11-19 05:37:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=233, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1111s
+
+2022-11-19 05:37:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=239, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1108s
+
+2022-11-19 05:37:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=246, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1099s
+
+2022-11-19 05:37:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=253, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1240s
+
+2022-11-19 05:37:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=260, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1427s
+
+2022-11-19 05:37:05: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=266, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1240s
+
+2022-11-19 05:37:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=273, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1112s
+
+2022-11-19 05:37:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=280, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1114s
+
+2022-11-19 05:37:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=286, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1110s
+
+2022-11-19 05:37:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=293, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1280s
+
+2022-11-19 05:37:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=300, nmi=0.9492, ari=0.9655, ami=0.9492, time_cost=0.1245s
+
+2022-11-19 05:37:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=306, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1118s
+
+2022-11-19 05:37:06: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=313, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1301s
+
+2022-11-19 05:37:07: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=319, nmi=0.9321, ari=0.9511, ami=0.9320, time_cost=0.1401s
+
+2022-11-19 05:37:07: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=326, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1234s
+
+2022-11-19 05:37:07: banana-ball datasets process:  alg_name=WassDPC(out), shape=(2000, 2), n_clusters=3, k_neighbors=333, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1150s
+
+2022-11-19 05:37:23: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=6, nmi=0.7219, ari=0.5955, ami=0.7217, time_cost=16.3718s
+
+2022-11-19 05:37:44: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=13, nmi=0.4261, ari=0.3392, ami=0.4256, time_cost=21.2160s
+
+2022-11-19 05:38:09: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=19, nmi=0.7293, ari=0.6101, ami=0.7290, time_cost=24.9263s
+
+2022-11-19 05:38:40: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=26, nmi=0.4750, ari=0.3517, ami=0.4745, time_cost=31.0375s
+
+2022-11-19 05:39:09: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=33, nmi=0.3781, ari=0.1982, ami=0.3775, time_cost=28.9321s
+
+2022-11-19 05:39:48: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=39, nmi=0.3380, ari=0.2897, ami=0.3374, time_cost=38.9108s
+
+2022-11-19 05:40:21: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=46, nmi=0.3663, ari=0.1525, ami=0.3657, time_cost=32.5634s
+
+2022-11-19 05:40:59: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=53, nmi=0.3663, ari=0.1525, ami=0.3657, time_cost=38.3142s
+
+2022-11-19 05:41:43: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=59, nmi=0.4087, ari=0.2135, ami=0.4081, time_cost=43.4868s
+
+2022-11-19 05:42:20: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=66, nmi=0.4087, ari=0.2135, ami=0.4081, time_cost=37.4967s
+
+2022-11-19 05:43:02: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=73, nmi=0.3117, ari=0.2441, ami=0.3110, time_cost=41.6081s
+
+2022-11-19 05:43:46: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=79, nmi=0.3117, ari=0.2441, ami=0.3110, time_cost=44.3407s
+
+2022-11-19 05:44:34: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=86, nmi=0.3181, ari=0.2478, ami=0.3174, time_cost=47.8502s
+
+2022-11-19 05:45:27: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=93, nmi=0.3195, ari=0.1277, ami=0.3187, time_cost=53.4184s
+
+2022-11-19 05:46:15: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=99, nmi=0.4534, ari=0.2656, ami=0.4529, time_cost=47.2412s
+
+2022-11-19 05:47:10: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=106, nmi=0.4534, ari=0.2656, ami=0.4529, time_cost=55.8435s
+
+2022-11-19 05:48:09: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=113, nmi=0.4534, ari=0.2656, ami=0.4529, time_cost=58.2018s
+
+2022-11-19 05:49:22: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=119, nmi=0.3670, ari=0.1541, ami=0.3663, time_cost=72.9075s
+
+2022-11-19 05:50:44: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=126, nmi=0.3618, ari=0.1504, ami=0.3611, time_cost=82.3509s
+
+2022-11-19 05:51:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=133, nmi=0.3618, ari=0.1504, ami=0.3611, time_cost=71.2297s
+
+2022-11-19 05:53:14: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=140, nmi=0.2931, ari=0.1120, ami=0.2923, time_cost=78.3089s
+
+2022-11-19 05:53:37: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=146, nmi=0.2500, ari=0.0318, ami=0.2491, time_cost=23.6666s
+
+2022-11-19 05:54:00: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=153, nmi=0.2500, ari=0.0318, ami=0.2491, time_cost=22.9721s
+
+2022-11-19 05:54:27: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=159, nmi=0.6677, ari=0.4986, ami=0.6674, time_cost=27.2070s
+
+2022-11-19 05:54:54: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=166, nmi=0.6677, ari=0.4986, ami=0.6674, time_cost=26.2327s
+
+2022-11-19 05:54:54: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=173, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1254s
+
+2022-11-19 05:54:54: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=180, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1215s
+
+2022-11-19 05:54:54: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=186, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1206s
+
+2022-11-19 05:54:54: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=193, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1130s
+
+2022-11-19 05:54:54: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=199, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1070s
+
+2022-11-19 05:54:54: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=206, nmi=0.9910, ari=0.9950, ami=0.9910, time_cost=0.1234s
+
+2022-11-19 05:54:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=213, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1229s
+
+2022-11-19 05:54:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=220, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1097s
+
+2022-11-19 05:54:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=226, nmi=0.9795, ari=0.9868, ami=0.9795, time_cost=0.1088s
+
+2022-11-19 05:54:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=233, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1099s
+
+2022-11-19 05:54:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=239, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1096s
+
+2022-11-19 05:54:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=246, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1234s
+
+2022-11-19 05:54:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=253, nmi=0.9634, ari=0.9769, ami=0.9634, time_cost=0.1332s
+
+2022-11-19 05:54:55: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=260, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1403s
+
+2022-11-19 05:54:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=266, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1256s
+
+2022-11-19 05:54:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=273, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1118s
+
+2022-11-19 05:54:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=280, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1114s
+
+2022-11-19 05:54:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=286, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1125s
+
+2022-11-19 05:54:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=293, nmi=0.9530, ari=0.9688, ami=0.9530, time_cost=0.1275s
+
+2022-11-19 05:54:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=300, nmi=0.9492, ari=0.9655, ami=0.9492, time_cost=0.1263s
+
+2022-11-19 05:54:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=306, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1123s
+
+2022-11-19 05:54:56: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=313, nmi=0.9339, ari=0.9527, ami=0.9338, time_cost=0.1153s
+
+2022-11-19 05:54:57: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=319, nmi=0.9321, ari=0.9511, ami=0.9320, time_cost=0.1141s
+
+2022-11-19 05:54:57: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=326, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1138s
+
+2022-11-19 05:54:57: banana-ball datasets process:  alg_name=WassDPC(out_out), shape=(2000, 2), n_clusters=3, k_neighbors=333, nmi=0.9285, ari=0.9479, ami=0.9284, time_cost=0.1131s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=2, nmi=0.0353, ari=0.0007, ami=0.0154, time_cost=0.1060s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=3, nmi=0.0508, ari=0.0009, ami=0.0320, time_cost=0.0629s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=4, nmi=0.0277, ari=0.0001, ami=0.0097, time_cost=0.0521s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=5, nmi=0.0456, ari=0.0015, ami=0.0273, time_cost=0.0976s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=6, nmi=0.4775, ari=0.3203, ami=0.4717, time_cost=0.0588s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=7, nmi=0.0501, ari=0.0028, ami=0.0364, time_cost=0.0476s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=8, nmi=0.3733, ari=0.2757, ami=0.3657, time_cost=0.0387s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=9, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0570s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=10, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0589s
+
+2022-11-19 05:54:57: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=11, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0472s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=12, nmi=0.4401, ari=0.3156, ami=0.4348, time_cost=0.0492s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=13, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0525s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=14, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0563s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=15, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0587s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=16, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0615s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=17, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0761s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=18, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0838s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=19, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0672s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=20, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0906s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=21, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0879s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=22, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0825s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=23, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0701s
+
+2022-11-19 05:54:58: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=24, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0761s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=25, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0118s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=26, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0112s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=27, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=28, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=29, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0109s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=30, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0110s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=31, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=32, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0215s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=33, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0233s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=34, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0126s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(in), shape=(210, 7), n_clusters=3, k_neighbors=35, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=2, nmi=0.6843, ari=0.7203, ami=0.6814, time_cost=0.0570s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=3, nmi=0.6000, ari=0.5082, ami=0.5954, time_cost=0.0620s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=4, nmi=0.6478, ari=0.6544, ami=0.6446, time_cost=0.0514s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=5, nmi=0.0410, ari=0.0020, ami=0.0238, time_cost=0.0811s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=6, nmi=0.0335, ari=0.0017, ami=0.0188, time_cost=0.0579s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=7, nmi=0.0501, ari=0.0028, ami=0.0364, time_cost=0.0617s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=8, nmi=0.0854, ari=0.0196, ami=0.0722, time_cost=0.0388s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=9, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0413s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=10, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0438s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=11, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0467s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=12, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0644s
+
+2022-11-19 05:54:59: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=13, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0679s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=14, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0710s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=15, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0753s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=16, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0616s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=17, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0773s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=18, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0853s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=19, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0813s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=20, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0925s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=21, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0736s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=22, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0827s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=23, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0826s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=24, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.1090s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=25, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0225s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=26, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0118s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=27, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0135s
+
+2022-11-19 05:55:00: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=28, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=29, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0110s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=30, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=31, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0123s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=32, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0112s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=33, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0110s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=34, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out), shape=(210, 7), n_clusters=3, k_neighbors=35, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0112s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=2, nmi=0.7132, ari=0.7134, ami=0.7107, time_cost=0.0816s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=3, nmi=0.7052, ari=0.7127, ami=0.7025, time_cost=0.0841s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=4, nmi=0.6331, ari=0.6391, ami=0.6298, time_cost=0.0568s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=5, nmi=0.5621, ari=0.4901, ami=0.5581, time_cost=0.0851s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=6, nmi=0.5488, ari=0.4151, ami=0.5444, time_cost=0.0478s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=7, nmi=0.4861, ari=0.4237, ami=0.4814, time_cost=0.0497s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=8, nmi=0.2506, ari=0.1030, ami=0.2418, time_cost=0.0403s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=9, nmi=0.4675, ari=0.4304, ami=0.4624, time_cost=0.0456s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=10, nmi=0.4675, ari=0.4304, ami=0.4624, time_cost=0.0536s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=11, nmi=0.4675, ari=0.4304, ami=0.4624, time_cost=0.0481s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=12, nmi=0.4675, ari=0.4304, ami=0.4624, time_cost=0.0503s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=13, nmi=0.4675, ari=0.4304, ami=0.4624, time_cost=0.0693s
+
+2022-11-19 05:55:01: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=14, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0726s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=15, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0599s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=16, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0706s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=17, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0732s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=18, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0836s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=19, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0836s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=20, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0921s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=21, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0896s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=22, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0840s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=23, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.0850s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=24, nmi=0.4822, ari=0.3843, ami=0.4770, time_cost=0.1042s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=25, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0239s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=26, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0229s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=27, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0122s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=28, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0110s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=29, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0110s
+
+2022-11-19 05:55:02: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=30, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0110s
+
+2022-11-19 05:55:03: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=31, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0112s
+
+2022-11-19 05:55:03: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=32, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:55:03: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=33, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:55:03: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=34, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0111s
+
+2022-11-19 05:55:03: seeds datasets process:  alg_name=WassDPC(out_out), shape=(210, 7), n_clusters=3, k_neighbors=35, nmi=0.6797, ari=0.7076, ami=0.6768, time_cost=0.0109s

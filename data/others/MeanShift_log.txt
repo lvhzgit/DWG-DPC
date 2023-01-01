@@ -1,0 +1,200 @@
+
+2022-12-09 03:45:59: R15 datasets process: alg_name=MeanShift, shape=(600, 2), k_neighbors=(bandwidth=0.1), n_clusters=15, nmi=0.8927, ari=0.7673, ami=0.8855, time_cost=2.0022s
+
+2022-12-09 03:46:01: R15 datasets process: alg_name=MeanShift, shape=(600, 2), k_neighbors=(bandwidth=0.2), n_clusters=15, nmi=0.7425, ari=0.2637, ami=0.7312, time_cost=3.5385s
+
+2022-12-09 03:49:03: S2 datasets process: alg_name=MeanShift, shape=(5000, 2), k_neighbors=(bandwidth=0.1), n_clusters=15, nmi=0.9462, ari=0.9383, ami=0.9458, time_cost=16.9326s
+
+2022-12-09 03:49:46: S2 datasets process: alg_name=MeanShift, shape=(5000, 2), k_neighbors=(bandwidth=0.2), n_clusters=15, nmi=0.6837, ari=0.4105, ami=0.6827, time_cost=60.2190s
+
+2022-12-09 03:50:42: S2 datasets process: alg_name=MeanShift, shape=(5000, 2), k_neighbors=(bandwidth=0.3), n_clusters=15, nmi=0.5246, ari=0.2297, ami=0.5239, time_cost=116.0138s
+
+2022-12-09 04:25:36: Flame datasets process: alg_name=MeanShift, shape=(240, 2), k_neighbors=(bandwidth=0.1), n_clusters=2, nmi=0.3288, ari=0.0741, ami=0.3102, time_cost=0.9851s
+
+2022-12-09 04:25:37: Flame datasets process: alg_name=MeanShift, shape=(240, 2), k_neighbors=(bandwidth=0.2), n_clusters=2, nmi=0.4371, ari=0.2990, ami=0.4320, time_cost=2.4587s
+
+2022-12-09 04:25:39: Flame datasets process: alg_name=MeanShift, shape=(240, 2), k_neighbors=(bandwidth=0.3), n_clusters=2, nmi=0.4343, ari=0.4763, ami=0.4325, time_cost=4.3623s
+
+2022-12-09 04:27:15: banana-ball datasets process: alg_name=MeanShift, shape=(2000, 2), k_neighbors=(bandwidth=0.1), n_clusters=3, nmi=0.5727, ari=0.3657, ami=0.5711, time_cost=15.8373s
+
+2022-12-09 04:27:40: banana-ball datasets process: alg_name=MeanShift, shape=(2000, 2), k_neighbors=(bandwidth=0.2), n_clusters=3, nmi=0.6295, ari=0.5774, ami=0.6290, time_cost=40.8420s
+
+2022-12-09 04:27:57: banana-ball datasets process: alg_name=MeanShift, shape=(2000, 2), k_neighbors=(bandwidth=0.3), n_clusters=3, nmi=0.5415, ari=0.5579, ami=0.5410, time_cost=57.6650s
+
+2022-12-09 04:40:09: seeds datasets process: alg_name=MeanShift, shape=(210, 7), k_neighbors=(bandwidth=0.1), n_clusters=3, nmi=0.3502, ari=0.0099, ami=0.0826, time_cost=0.3860s
+
+2022-12-09 04:40:10: seeds datasets process: alg_name=MeanShift, shape=(210, 7), k_neighbors=(bandwidth=0.2), n_clusters=3, nmi=0.4554, ari=0.2007, ami=0.4024, time_cost=1.5163s
+
+2022-12-09 04:40:12: seeds datasets process: alg_name=MeanShift, shape=(210, 7), k_neighbors=(bandwidth=0.3), n_clusters=3, nmi=0.6274, ari=0.6058, ami=0.6189, time_cost=2.7896s
+
+2022-12-09 04:40:13: seeds datasets process: alg_name=MeanShift, shape=(210, 7), k_neighbors=(bandwidth=0.4), n_clusters=3, nmi=0.6900, ari=0.7237, ami=0.6872, time_cost=4.4641s
+
+2022-12-09 04:40:15: seeds datasets process: alg_name=MeanShift, shape=(210, 7), k_neighbors=(bandwidth=0.5), n_clusters=3, nmi=0.5622, ari=0.4858, ami=0.5598, time_cost=5.8397s
+
+2022-12-09 04:40:17: seeds datasets process: alg_name=MeanShift, shape=(210, 7), k_neighbors=(bandwidth=0.6), n_clusters=3, nmi=0.5275, ari=0.4517, ami=0.5249, time_cost=7.5849s
+
+2022-12-09 04:41:39: banknote datasets process: alg_name=MeanShift, shape=(1372, 4), k_neighbors=(bandwidth=0.1), n_clusters=2, nmi=0.3044, ari=0.0585, ami=0.2974, time_cost=6.2640s
+
+2022-12-09 04:41:51: banknote datasets process: alg_name=MeanShift, shape=(1372, 4), k_neighbors=(bandwidth=0.2), n_clusters=2, nmi=0.2663, ari=0.1781, ami=0.2646, time_cost=18.7947s
+
+2022-12-09 04:51:35: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.1), n_clusters=7, nmi=0.4657, ari=0.0322, ami=0.3067, time_cost=14.5162s
+
+2022-12-09 04:52:07: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.2), n_clusters=7, nmi=0.5463, ari=0.1544, ami=0.5017, time_cost=46.5244s
+
+2022-12-09 04:52:55: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.3), n_clusters=7, nmi=0.5816, ari=0.2839, ami=0.5590, time_cost=94.0179s
+
+2022-12-09 04:53:55: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.4), n_clusters=7, nmi=0.5949, ari=0.4826, ami=0.5849, time_cost=154.6179s
+
+2022-12-09 04:55:21: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.5), n_clusters=7, nmi=0.6209, ari=0.4666, ami=0.6143, time_cost=240.0564s
+
+2022-12-09 04:56:20: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.6), n_clusters=7, nmi=0.6606, ari=0.4825, ami=0.6574, time_cost=299.4362s
+
+2022-12-09 04:57:27: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.7), n_clusters=7, nmi=0.5105, ari=0.2425, ami=0.5077, time_cost=366.3910s
+
+2022-12-09 04:58:27: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.8), n_clusters=7, nmi=0.3261, ari=0.1024, ami=0.3245, time_cost=426.4558s
+
+2022-12-09 04:59:28: segmentation datasets process: alg_name=MeanShift, shape=(2310, 19), k_neighbors=(bandwidth=0.9), n_clusters=7, nmi=0.3162, ari=0.1030, ami=0.3154, time_cost=487.6681s
+
+2022-12-09 05:48:05: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.1), n_clusters=5, nmi=0.3181, ari=0.0000, ami=-0.0000, time_cost=96.8074s
+
+2022-12-09 05:49:45: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.2), n_clusters=5, nmi=0.3181, ari=0.0000, ami=-0.0000, time_cost=197.5749s
+
+2022-12-09 05:51:26: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.3), n_clusters=5, nmi=0.3181, ari=0.0000, ami=-0.0000, time_cost=297.8902s
+
+2022-12-09 05:53:01: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.4), n_clusters=5, nmi=0.3181, ari=0.0000, ami=-0.0000, time_cost=393.0748s
+
+2022-12-09 05:54:33: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.5), n_clusters=5, nmi=0.3181, ari=0.0000, ami=-0.0000, time_cost=485.3270s
+
+2022-12-09 05:56:03: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.6), n_clusters=5, nmi=0.3181, ari=0.0000, ami=-0.0000, time_cost=575.4040s
+
+2022-12-09 05:57:35: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.7), n_clusters=5, nmi=0.3181, ari=0.0000, ami=-0.0000, time_cost=666.9063s
+
+2022-12-09 05:59:05: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.8), n_clusters=5, nmi=0.3181, ari=0.0000, ami=-0.0000, time_cost=756.8814s
+
+2022-12-09 06:00:41: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=0.9), n_clusters=5, nmi=0.3181, ari=0.0000, ami=0.0001, time_cost=853.0773s
+
+2022-12-09 06:02:14: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.0), n_clusters=5, nmi=0.3181, ari=0.0000, ami=0.0001, time_cost=945.9674s
+
+2022-12-09 06:03:45: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.1), n_clusters=5, nmi=0.3273, ari=0.0203, ami=0.0264, time_cost=1037.0291s
+
+2022-12-09 06:05:38: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.2), n_clusters=5, nmi=0.3475, ari=0.0774, ami=0.0810, time_cost=1150.6047s
+
+2022-12-09 06:09:10: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.3), n_clusters=5, nmi=0.3730, ari=0.1539, ami=0.1492, time_cost=1362.3313s
+
+2022-12-09 06:15:25: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.4), n_clusters=5, nmi=0.4136, ari=0.2746, ami=0.2543, time_cost=1737.4827s
+
+2022-12-09 06:27:04: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.5), n_clusters=5, nmi=0.4697, ari=0.4015, ami=0.3720, time_cost=2435.9227s
+
+2022-12-09 06:38:01: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.6), n_clusters=5, nmi=0.4951, ari=0.4473, ami=0.4444, time_cost=3093.0165s
+
+2022-12-09 06:49:48: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.7), n_clusters=5, nmi=0.5419, ari=0.4800, ami=0.5218, time_cost=3800.4781s
+
+2022-12-09 07:01:06: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.8), n_clusters=5, nmi=0.5514, ari=0.4287, ami=0.5416, time_cost=4478.4683s
+
+2022-12-09 07:13:10: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=1.9), n_clusters=5, nmi=0.5902, ari=0.4110, ami=0.5864, time_cost=5202.6131s
+
+2022-12-09 07:24:11: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=2.0), n_clusters=5, nmi=0.6075, ari=0.4082, ami=0.6058, time_cost=5863.3033s
+
+2022-12-09 07:32:18: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=2.1), n_clusters=5, nmi=0.6074, ari=0.3997, ami=0.6067, time_cost=6350.7339s
+
+2022-12-09 07:39:43: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=2.2), n_clusters=5, nmi=0.6102, ari=0.4016, ami=0.6098, time_cost=6795.3018s
+
+2022-12-09 07:47:25: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=2.3), n_clusters=5, nmi=0.6068, ari=0.4001, ami=0.6065, time_cost=7256.8468s
+
+2022-12-09 07:53:50: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=2.4), n_clusters=5, nmi=0.6052, ari=0.4004, ami=0.6050, time_cost=7641.8610s
+
+2022-12-09 08:03:11: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=2.5), n_clusters=5, nmi=0.5947, ari=0.3987, ami=0.5944, time_cost=8203.1593s
+
+2022-12-09 08:11:58: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=2.6), n_clusters=5, nmi=0.3368, ari=0.1637, ami=0.3365, time_cost=8730.7022s
+
+2022-12-09 08:20:36: phoneme datasets process: alg_name=MeanShift, shape=(4509, 256), k_neighbors=(bandwidth=2.7), n_clusters=5, nmi=0.3679, ari=0.1622, ami=0.3676, time_cost=9248.7527s
+
+2022-12-09 17:50:18: MFCCs datasets process: alg_name=MeanShift, shape=(7195, 22), k_neighbors=(bandwidth=0.1), n_clusters=60, nmi=0.6055, ari=0.0964, ami=0.2703, time_cost=64.7456s
+
+2022-12-09 17:53:40: MFCCs datasets process: alg_name=MeanShift, shape=(7195, 22), k_neighbors=(bandwidth=0.2), n_clusters=60, nmi=0.7028, ari=0.3088, ami=0.6468, time_cost=266.7013s
+
+2022-12-09 17:56:24: MFCCs datasets process: alg_name=MeanShift, shape=(7195, 22), k_neighbors=(bandwidth=0.3), n_clusters=60, nmi=0.6626, ari=0.1932, ami=0.6287, time_cost=431.1616s
+
+2022-12-09 17:58:41: MFCCs datasets process: alg_name=MeanShift, shape=(7195, 22), k_neighbors=(bandwidth=0.4), n_clusters=60, nmi=0.5329, ari=0.1481, ami=0.5050, time_cost=568.4810s
+
+2022-12-09 18:02:28: MFCCs datasets process: alg_name=MeanShift, shape=(7195, 22), k_neighbors=(bandwidth=0.5), n_clusters=60, nmi=0.4164, ari=0.0808, ami=0.3942, time_cost=795.5411s
+
+2022-12-09 18:05:03: MFCCs datasets process: alg_name=MeanShift, shape=(7195, 22), k_neighbors=(bandwidth=0.6), n_clusters=60, nmi=0.1201, ari=0.0067, ami=0.1027, time_cost=950.1994s
+
+2022-12-09 18:08:20: MFCCs datasets process: alg_name=MeanShift, shape=(7195, 22), k_neighbors=(bandwidth=0.7), n_clusters=60, nmi=0.0347, ari=0.0014, ami=0.0287, time_cost=1147.5575s
+
+2022-12-10 03:47:39: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.1), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=24493.1721s
+
+2022-12-10 10:36:36: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.2), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=49029.7333s
+
+2022-12-10 15:50:44: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.3), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=67878.3412s
+
+2022-12-10 21:04:05: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.4), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=86679.9242s
+
+2022-12-11 02:18:07: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.5), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=105521.3167s
+
+2022-12-11 07:30:29: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.6), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=124263.8437s
+
+2022-12-11 12:44:52: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.7), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=143126.5754s
+
+2022-12-11 17:59:34: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.8), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=162008.7984s
+
+2022-12-11 23:21:33: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=0.9), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0000, time_cost=181327.7559s
+
+2022-12-12 04:44:01: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.0), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0001, time_cost=200675.2508s
+
+2022-12-12 10:10:20: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.1), n_clusters=10, nmi=0.3420, ari=0.0000, ami=0.0004, time_cost=220254.8858s
+
+2022-12-12 15:43:29: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.2), n_clusters=10, nmi=0.3422, ari=0.0000, ami=0.0017, time_cost=240243.1162s
+
+2022-12-12 21:13:49: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.3), n_clusters=10, nmi=0.3426, ari=0.0000, ami=0.0044, time_cost=260063.3326s
+
+2022-12-13 02:49:13: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.4), n_clusters=10, nmi=0.3433, ari=0.0001, ami=0.0087, time_cost=280186.9856s
+
+2022-12-13 08:28:49: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.5), n_clusters=10, nmi=0.3442, ari=0.0001, ami=0.0140, time_cost=300564.0695s
+
+2022-12-13 14:28:53: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.6), n_clusters=10, nmi=0.3453, ari=0.0003, ami=0.0194, time_cost=322167.4965s
+
+2022-12-13 21:02:03: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.7), n_clusters=10, nmi=0.3464, ari=0.0005, ami=0.0244, time_cost=345757.8054s
+
+2022-12-14 04:32:52: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.8), n_clusters=10, nmi=0.3476, ari=0.0008, ami=0.0295, time_cost=372806.9233s
+
+2022-12-14 12:32:03: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=1.9), n_clusters=10, nmi=0.3487, ari=0.0012, ami=0.0335, time_cost=401557.2590s
+
+2022-12-14 21:28:45: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.0), n_clusters=10, nmi=0.3497, ari=0.0017, ami=0.0372, time_cost=433760.1858s
+
+2022-12-15 06:48:58: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.1), n_clusters=10, nmi=0.3512, ari=0.0030, ami=0.0409, time_cost=467372.7631s
+
+2022-12-15 17:00:21: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.2), n_clusters=10, nmi=0.3521, ari=0.0038, ami=0.0437, time_cost=504055.3743s
+
+2022-12-16 04:58:16: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.3), n_clusters=10, nmi=0.3532, ari=0.0053, ami=0.0462, time_cost=547130.8377s
+
+2022-12-16 17:00:27: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.4), n_clusters=10, nmi=0.3542, ari=0.0071, ami=0.0487, time_cost=590461.9911s
+
+2022-12-17 06:02:23: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.5), n_clusters=10, nmi=0.3555, ari=0.0097, ami=0.0513, time_cost=637377.8870s
+
+2022-12-17 20:20:14: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.6), n_clusters=10, nmi=0.3565, ari=0.0136, ami=0.0538, time_cost=688849.0844s
+
+2022-12-18 14:01:14: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.7), n_clusters=10, nmi=0.3575, ari=0.0168, ami=0.0568, time_cost=752509.2369s
+
+2022-12-19 08:21:19: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.8), n_clusters=10, nmi=0.3576, ari=0.0158, ami=0.0602, time_cost=818513.6988s
+
+2022-12-20 01:29:16: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=2.9), n_clusters=10, nmi=0.3592, ari=0.0201, ami=0.0648, time_cost=880190.6732s
+
+2022-12-20 17:14:45: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.0), n_clusters=10, nmi=0.3609, ari=0.0253, ami=0.0700, time_cost=936920.0554s
+
+2022-12-21 11:07:31: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.1), n_clusters=10, nmi=0.3614, ari=0.0243, ami=0.0757, time_cost=1001285.7681s
+
+2022-12-22 04:04:35: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.2), n_clusters=10, nmi=0.3633, ari=0.0291, ami=0.0829, time_cost=1062310.0566s
+
+2022-12-23 05:40:08: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.3), n_clusters=10, nmi=0.3635, ari=0.0285, ami=0.0897, time_cost=1154443.2287s
+
+2022-12-24 10:16:20: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.4), n_clusters=10, nmi=0.3661, ari=0.0361, ami=0.0996, time_cost=1257414.5392s
+
+2022-12-25 11:12:48: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.5), n_clusters=10, nmi=0.3682, ari=0.0387, ami=0.1096, time_cost=1347203.4756s
+
+2022-12-26 21:08:07: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.6), n_clusters=10, nmi=0.3705, ari=0.0433, ami=0.1198, time_cost=1469322.3212s
+
+2022-12-28 04:29:12: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.7), n_clusters=10, nmi=0.3728, ari=0.0482, ami=0.1317, time_cost=1582186.6383s
+
+2022-12-29 12:52:41: mnist_784 datasets process: alg_name=MeanShift, shape=(70000, 784), k_neighbors=(bandwidth=3.8), n_clusters=10, nmi=0.3759, ari=0.0547, ami=0.1450, time_cost=1698795.9266s
