@@ -14,7 +14,7 @@ def load_data(datapath,data_name):
     n_clusters = len(set(label_true))
     return x_mat, label_true, n_clusters
 
-class WassDPC:
+class DWG_DPC:
     """
     Parameters
     ----------
@@ -437,8 +437,8 @@ if __name__=="__main__":
         # k=int((x_mat.shape[0]/n_clusters)*0.4)
         k=255      
         t0=time.perf_counter()
-        wass_dpc=WassDPC(k,n_clusters,knn_info=knn_info,wass_kind=wass_kind)
-        pred_labels,centers=wass_dpc.fit(x_mat)
+        dwg_dpc=DWG_DPC(k,n_clusters,knn_info=knn_info,wass_kind=wass_kind)
+        pred_labels,centers=dwg_dpc.fit(x_mat)
         t1=time.perf_counter()
         nmi=normalized_mutual_info_score(label_true,pred_labels)
         print(f"wass_dpc result: data_name={data_name},k={k}, n_clusters={n_clusters} nmi={nmi}, time_cost={t1-t0}s")
